@@ -1,0 +1,56 @@
+﻿[
+    {
+        "id":  "DOC-7482E551",
+        "username":  "Yuri",
+        "password":  "1111",
+        "role":  "doctor",
+        "name":  "Yuriha",
+        "contact":  "096767676",
+        "specialty":  "Neuro"
+    },
+    {
+        "id":  "PAT-6A9D3EFC",
+        "username":  "Crane",
+        "password":  "1111",
+        "role":  "patient",
+        "name":  "Crane Hart Paganaje",
+        "contact":  "90909090",
+        "specialty":  ""
+    },
+    {
+        "id":  "DOC-72B03525",
+        "username":  "Ren",
+        "password":  "1111",
+        "role":  "doctor",
+        "name":  "Ren Yuri",
+        "contact":  "09090909",
+        "specialty":  "psychometrician"
+    },
+    {
+        "id":  "PAT-0C31F41D",
+        "username":  "hart",
+        "password":  "1111",
+        "role":  "patient",
+        "name":  "hart crane",
+        "contact":  "1111",
+        "specialty":  ""
+    },
+    {
+        "id":  "PAT-5A51C1AF",
+        "username":  "Jonard",
+        "password":  "1111",
+        "role":  "patient",
+        "name":  "Jonard Rane",
+        "contact":  "1111",
+        "specialty":  ""
+    },
+    {
+        "id":  "DOC-41AB7A75",
+        "username":  "sven",
+        "password":  "1111",
+        "role":  "doctor",
+        "name":  "six seven",
+        "contact":  "767676",
+        "specialty":  "Surgeon"
+    }
+]

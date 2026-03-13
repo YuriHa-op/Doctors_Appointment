@@ -1,0 +1,1641 @@
+[ {
+  "timestamp" : "2026-02-27 22:59:07",
+  "user" : "SERVER",
+  "action" : "START",
+  "detail" : "Server started on port 9090"
+}, {
+  "timestamp" : "2026-02-27 22:59:24",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:51091"
+}, {
+  "timestamp" : "2026-02-27 22:59:24",
+  "user" : "Yuri",
+  "action" : "LOGIN",
+  "detail" : "User logged in: DOC-7482E551"
+}, {
+  "timestamp" : "2026-03-01 21:24:52",
+  "user" : "SERVER",
+  "action" : "START",
+  "detail" : "Server started on port 9090"
+}, {
+  "timestamp" : "2026-03-01 21:25:03",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:52073"
+}, {
+  "timestamp" : "2026-03-01 21:25:03",
+  "user" : "Yuri",
+  "action" : "LOGIN",
+  "detail" : "User logged in: DOC-7482E551"
+}, {
+  "timestamp" : "2026-03-01 21:25:12",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:52075"
+}, {
+  "timestamp" : "2026-03-01 21:25:13",
+  "user" : "DOC-7482E551",
+  "action" : "CREATE_SCHEDULE",
+  "detail" : "Created 176 slots for 2026-3"
+}, {
+  "timestamp" : "2026-03-01 21:25:37",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:52078"
+}, {
+  "timestamp" : "2026-03-01 21:26:14",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:52083"
+}, {
+  "timestamp" : "2026-03-01 21:26:14",
+  "user" : "DOC-7482E551",
+  "action" : "OVERRIDE_DAY",
+  "detail" : "halfday on 2026-02-25: removed 4 slots"
+}, {
+  "timestamp" : "2026-03-01 21:26:16",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:52084"
+}, {
+  "timestamp" : "2026-03-01 21:26:25",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:52087"
+}, {
+  "timestamp" : "2026-03-01 21:27:11",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:52094"
+}, {
+  "timestamp" : "2026-03-01 21:27:11",
+  "user" : "crane",
+  "action" : "LOGIN",
+  "detail" : "Failed login attempt"
+}, {
+  "timestamp" : "2026-03-01 21:27:17",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:52095"
+}, {
+  "timestamp" : "2026-03-01 21:27:17",
+  "user" : "Crane",
+  "action" : "LOGIN",
+  "detail" : "User logged in: PAT-6A9D3EFC"
+}, {
+  "timestamp" : "2026-03-01 21:51:05",
+  "user" : "SERVER",
+  "action" : "START",
+  "detail" : "Server started on port 9090"
+}, {
+  "timestamp" : "2026-03-01 21:51:18",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:52432"
+}, {
+  "timestamp" : "2026-03-01 21:51:18",
+  "user" : "Yuri",
+  "action" : "LOGIN",
+  "detail" : "User logged in: DOC-7482E551"
+}, {
+  "timestamp" : "2026-03-01 21:51:18",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:52433"
+}, {
+  "timestamp" : "2026-03-01 21:51:42",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:52441"
+}, {
+  "timestamp" : "2026-03-01 21:51:42",
+  "user" : "Server",
+  "action" : "CANCEL",
+  "detail" : "Canceled appointment SCH-FB26C538"
+}, {
+  "timestamp" : "2026-03-01 21:51:43",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:52442"
+}, {
+  "timestamp" : "2026-03-01 21:52:00",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:52444"
+}, {
+  "timestamp" : "2026-03-01 21:52:00",
+  "user" : "Server",
+  "action" : "CANCEL",
+  "detail" : "Canceled appointment SCH-FB26C538"
+}, {
+  "timestamp" : "2026-03-01 21:52:01",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:52445"
+}, {
+  "timestamp" : "2026-03-01 21:52:06",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:52446"
+}, {
+  "timestamp" : "2026-03-01 21:52:06",
+  "user" : "Server",
+  "action" : "CANCEL",
+  "detail" : "Canceled appointment SCH-FB26C538"
+}, {
+  "timestamp" : "2026-03-01 21:52:07",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:52447"
+}, {
+  "timestamp" : "2026-03-01 21:52:17",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:52449"
+}, {
+  "timestamp" : "2026-03-01 21:52:17",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:52450"
+}, {
+  "timestamp" : "2026-03-01 21:52:18",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:52451"
+}, {
+  "timestamp" : "2026-03-01 21:52:18",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:52452"
+}, {
+  "timestamp" : "2026-03-01 21:52:49",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:52461"
+}, {
+  "timestamp" : "2026-03-01 21:52:49",
+  "user" : "Yuri",
+  "action" : "LOGIN",
+  "detail" : "User logged in: DOC-7482E551"
+}, {
+  "timestamp" : "2026-03-01 21:52:49",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:52462"
+}, {
+  "timestamp" : "2026-03-01 22:05:57",
+  "user" : "SERVER",
+  "action" : "START",
+  "detail" : "Server started on port 9090"
+}, {
+  "timestamp" : "2026-03-01 22:06:05",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:52631"
+}, {
+  "timestamp" : "2026-03-01 22:06:05",
+  "user" : "Yuri",
+  "action" : "LOGIN",
+  "detail" : "User logged in: DOC-7482E551"
+}, {
+  "timestamp" : "2026-03-01 22:06:05",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:52633"
+}, {
+  "timestamp" : "2026-03-01 22:06:15",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:52634"
+}, {
+  "timestamp" : "2026-03-01 22:06:15",
+  "user" : "DOC-7482E551",
+  "action" : "OVERRIDE_DAY",
+  "detail" : "offday on 2026-02-25: removed 4 slots"
+}, {
+  "timestamp" : "2026-03-01 22:06:16",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:52635"
+}, {
+  "timestamp" : "2026-03-01 22:06:22",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:52636"
+}, {
+  "timestamp" : "2026-03-01 22:06:22",
+  "user" : "DOC-7482E551",
+  "action" : "DELETE_SCHEDULE",
+  "detail" : "Deleted 8 slots for 2026-02-26"
+}, {
+  "timestamp" : "2026-03-01 22:06:22",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:52637"
+}, {
+  "timestamp" : "2026-03-01 22:06:33",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:52639"
+}, {
+  "timestamp" : "2026-03-01 22:06:33",
+  "user" : "DOC-7482E551",
+  "action" : "DELETE_SCHEDULE",
+  "detail" : "Deleted 8 slots for 2026-02-27"
+}, {
+  "timestamp" : "2026-03-01 22:06:33",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:52640"
+}, {
+  "timestamp" : "2026-03-01 22:06:42",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:52645"
+}, {
+  "timestamp" : "2026-03-01 22:39:04",
+  "user" : "SERVER",
+  "action" : "START",
+  "detail" : "Server started on port 9090"
+}, {
+  "timestamp" : "2026-03-01 22:39:23",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:53014"
+}, {
+  "timestamp" : "2026-03-01 22:39:23",
+  "user" : "Yuri",
+  "action" : "LOGIN",
+  "detail" : "User logged in: DOC-7482E551"
+}, {
+  "timestamp" : "2026-03-01 22:39:23",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:53015"
+}, {
+  "timestamp" : "2026-03-01 22:39:54",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:53018"
+}, {
+  "timestamp" : "2026-03-01 22:39:54",
+  "user" : "DOC-7482E551",
+  "action" : "DELETE_SLOT",
+  "detail" : "Deleted slot SCH-402B0104"
+}, {
+  "timestamp" : "2026-03-01 22:39:55",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:53019"
+}, {
+  "timestamp" : "2026-03-01 22:40:11",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:53024"
+}, {
+  "timestamp" : "2026-03-01 22:40:20",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:53026"
+}, {
+  "timestamp" : "2026-03-01 22:40:20",
+  "user" : "Crane",
+  "action" : "LOGIN",
+  "detail" : "User logged in: PAT-6A9D3EFC"
+}, {
+  "timestamp" : "2026-03-01 22:40:20",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:53027"
+}, {
+  "timestamp" : "2026-03-01 22:40:30",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:53028"
+}, {
+  "timestamp" : "2026-03-01 22:40:33",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:53029"
+}, {
+  "timestamp" : "2026-03-01 22:40:48",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:53030"
+}, {
+  "timestamp" : "2026-03-01 22:40:48",
+  "user" : "PAT-6A9D3EFC",
+  "action" : "BOOK_SLOT",
+  "detail" : "Booked slot SCH-74BF5414"
+}, {
+  "timestamp" : "2026-03-01 22:40:49",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:53031"
+}, {
+  "timestamp" : "2026-03-01 22:40:51",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:53032"
+}, {
+  "timestamp" : "2026-03-01 22:40:55",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:53033"
+}, {
+  "timestamp" : "2026-03-01 22:40:55",
+  "user" : "PAT-6A9D3EFC",
+  "action" : "CANCEL_BOOKING",
+  "detail" : "Cancelled booking SCH-74BF5414"
+}, {
+  "timestamp" : "2026-03-01 22:40:55",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:53034"
+}, {
+  "timestamp" : "2026-03-01 22:40:55",
+  "user" : "PAT-6A9D3EFC",
+  "action" : "BOOK_SLOT",
+  "detail" : "Booked slot SCH-03F3DF8D"
+}, {
+  "timestamp" : "2026-03-01 22:40:57",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:53036"
+}, {
+  "timestamp" : "2026-03-01 22:41:02",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:53038"
+}, {
+  "timestamp" : "2026-03-01 22:41:24",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:53041"
+}, {
+  "timestamp" : "2026-03-01 22:41:24",
+  "user" : "PAT-6A9D3EFC",
+  "action" : "CANCEL_BOOKING",
+  "detail" : "Cancelled booking SCH-03F3DF8D"
+}, {
+  "timestamp" : "2026-03-01 22:41:26",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:53042"
+}, {
+  "timestamp" : "2026-03-01 22:41:28",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:53043"
+}, {
+  "timestamp" : "2026-03-01 22:41:31",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:53044"
+}, {
+  "timestamp" : "2026-03-01 22:41:36",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:53046"
+}, {
+  "timestamp" : "2026-03-01 22:41:43",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:53047"
+}, {
+  "timestamp" : "2026-03-01 22:41:43",
+  "user" : "PAT-6A9D3EFC",
+  "action" : "BOOK_SLOT",
+  "detail" : "Booked slot SCH-74BF5414"
+}, {
+  "timestamp" : "2026-03-01 22:41:44",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:53048"
+}, {
+  "timestamp" : "2026-03-01 22:41:46",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:53049"
+}, {
+  "timestamp" : "2026-03-01 22:41:53",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:53050"
+}, {
+  "timestamp" : "2026-03-01 22:41:56",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:53051"
+}, {
+  "timestamp" : "2026-03-01 22:41:56",
+  "user" : "PAT-6A9D3EFC",
+  "action" : "CANCEL_BOOKING",
+  "detail" : "Cancelled booking SCH-74BF5414"
+}, {
+  "timestamp" : "2026-03-01 22:41:56",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:53052"
+}, {
+  "timestamp" : "2026-03-01 22:41:56",
+  "user" : "PAT-6A9D3EFC",
+  "action" : "BOOK_SLOT",
+  "detail" : "Booked slot SCH-AD2A6BBB"
+}, {
+  "timestamp" : "2026-03-01 22:41:57",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:53053"
+}, {
+  "timestamp" : "2026-03-01 22:41:58",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:53054"
+}, {
+  "timestamp" : "2026-03-01 22:42:05",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:53056"
+}, {
+  "timestamp" : "2026-03-01 22:42:52",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:53060"
+}, {
+  "timestamp" : "2026-03-01 22:45:16",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:53082"
+}, {
+  "timestamp" : "2026-03-01 22:45:16",
+  "user" : "Crane",
+  "action" : "LOGIN",
+  "detail" : "User logged in: PAT-6A9D3EFC"
+}, {
+  "timestamp" : "2026-03-01 22:45:16",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:53083"
+}, {
+  "timestamp" : "2026-03-01 22:46:00",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:53090"
+}, {
+  "timestamp" : "2026-03-01 22:48:57",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:53122"
+}, {
+  "timestamp" : "2026-03-01 22:55:41",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:53181"
+}, {
+  "timestamp" : "2026-03-01 22:55:41",
+  "user" : "Crane",
+  "action" : "LOGIN",
+  "detail" : "User logged in: PAT-6A9D3EFC"
+}, {
+  "timestamp" : "2026-03-01 22:55:41",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:53182"
+}, {
+  "timestamp" : "2026-03-01 22:55:44",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:53183"
+}, {
+  "timestamp" : "2026-03-01 22:56:05",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:53187"
+}, {
+  "timestamp" : "2026-03-01 22:56:05",
+  "user" : "PAT-6A9D3EFC",
+  "action" : "BOOK_SLOT",
+  "detail" : "Booked slot SCH-74BF5414"
+}, {
+  "timestamp" : "2026-03-01 22:56:14",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:53188"
+}, {
+  "timestamp" : "2026-03-01 22:56:17",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:53190"
+}, {
+  "timestamp" : "2026-03-01 22:56:18",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:53191"
+}, {
+  "timestamp" : "2026-03-01 23:04:19",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:53306"
+}, {
+  "timestamp" : "2026-03-01 23:04:19",
+  "user" : "Ren",
+  "action" : "REGISTER",
+  "detail" : "New doctor registered: DOC-72B03525"
+}, {
+  "timestamp" : "2026-03-01 23:04:23",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:53307"
+}, {
+  "timestamp" : "2026-03-01 23:04:23",
+  "user" : "Ren",
+  "action" : "LOGIN",
+  "detail" : "User logged in: DOC-72B03525"
+}, {
+  "timestamp" : "2026-03-01 23:04:23",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:53308"
+}, {
+  "timestamp" : "2026-03-01 23:04:36",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:53310"
+}, {
+  "timestamp" : "2026-03-01 23:04:36",
+  "user" : "DOC-72B03525",
+  "action" : "CREATE_SCHEDULE",
+  "detail" : "Created 40 slots for 2026-2"
+}, {
+  "timestamp" : "2026-03-01 23:04:37",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:53311"
+}, {
+  "timestamp" : "2026-03-01 23:04:44",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:53312"
+}, {
+  "timestamp" : "2026-03-01 23:04:44",
+  "user" : "DOC-72B03525",
+  "action" : "DELETE_SLOT",
+  "detail" : "Deleted slot SCH-6996028F"
+}, {
+  "timestamp" : "2026-03-01 23:04:45",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:53313"
+}, {
+  "timestamp" : "2026-03-01 23:05:03",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:53316"
+}, {
+  "timestamp" : "2026-03-01 23:05:03",
+  "user" : "DOC-72B03525",
+  "action" : "OVERRIDE_DAY",
+  "detail" : "halfday on 2026-02-02: removed 0 slots"
+}, {
+  "timestamp" : "2026-03-01 23:05:05",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:53317"
+}, {
+  "timestamp" : "2026-03-01 23:05:10",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:53319"
+}, {
+  "timestamp" : "2026-03-01 23:05:10",
+  "user" : "DOC-72B03525",
+  "action" : "OVERRIDE_DAY",
+  "detail" : "offday on 2026-02-02: removed 1 slots"
+}, {
+  "timestamp" : "2026-03-01 23:05:11",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:53320"
+}, {
+  "timestamp" : "2026-03-01 23:05:25",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:53325"
+}, {
+  "timestamp" : "2026-03-01 23:05:25",
+  "user" : "DOC-72B03525",
+  "action" : "OVERRIDE_DAY",
+  "detail" : "offday on 2026-02-03: removed 2 slots"
+}, {
+  "timestamp" : "2026-03-01 23:05:26",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:53326"
+}, {
+  "timestamp" : "2026-03-01 23:05:55",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:53327"
+}, {
+  "timestamp" : "2026-03-01 23:05:55",
+  "user" : "hart",
+  "action" : "REGISTER",
+  "detail" : "New patient registered: PAT-0C31F41D"
+}, {
+  "timestamp" : "2026-03-01 23:05:58",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:53328"
+}, {
+  "timestamp" : "2026-03-01 23:05:58",
+  "user" : "hart",
+  "action" : "LOGIN",
+  "detail" : "User logged in: PAT-0C31F41D"
+}, {
+  "timestamp" : "2026-03-01 23:05:58",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:53329"
+}, {
+  "timestamp" : "2026-03-01 23:06:50",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:53332"
+}, {
+  "timestamp" : "2026-03-01 23:06:54",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:53333"
+}, {
+  "timestamp" : "2026-03-01 23:06:54",
+  "user" : "PAT-0C31F41D",
+  "action" : "BOOK_SLOT",
+  "detail" : "Booked slot SCH-DDF4BF51"
+}, {
+  "timestamp" : "2026-03-01 23:06:56",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:53335"
+}, {
+  "timestamp" : "2026-03-01 23:07:19",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:53336"
+}, {
+  "timestamp" : "2026-03-01 23:07:28",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:53337"
+}, {
+  "timestamp" : "2026-03-01 23:07:28",
+  "user" : "Crane",
+  "action" : "LOGIN",
+  "detail" : "User logged in: PAT-6A9D3EFC"
+}, {
+  "timestamp" : "2026-03-01 23:07:28",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:53338"
+}, {
+  "timestamp" : "2026-03-01 23:07:32",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:53339"
+}, {
+  "timestamp" : "2026-03-01 23:07:36",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:53340"
+}, {
+  "timestamp" : "2026-03-01 23:07:36",
+  "user" : "PAT-6A9D3EFC",
+  "action" : "BOOK_SLOT",
+  "detail" : "Booked slot SCH-7EE1CDA8"
+}, {
+  "timestamp" : "2026-03-01 23:07:38",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:53341"
+}, {
+  "timestamp" : "2026-03-01 23:07:52",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:53343"
+}, {
+  "timestamp" : "2026-03-01 23:07:56",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:53344"
+}, {
+  "timestamp" : "2026-03-01 23:08:00",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:53347"
+}, {
+  "timestamp" : "2026-03-01 23:08:04",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:53348"
+}, {
+  "timestamp" : "2026-03-01 23:08:04",
+  "user" : "PAT-6A9D3EFC",
+  "action" : "BOOK_SLOT",
+  "detail" : "Booked slot SCH-98B77D95"
+}, {
+  "timestamp" : "2026-03-01 23:08:08",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:53349"
+}, {
+  "timestamp" : "2026-03-01 23:08:16",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:53350"
+}, {
+  "timestamp" : "2026-03-01 23:08:24",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:53351"
+}, {
+  "timestamp" : "2026-03-01 23:08:49",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:53355"
+}, {
+  "timestamp" : "2026-03-01 23:08:52",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:53356"
+}, {
+  "timestamp" : "2026-03-01 23:09:15",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:53367"
+}, {
+  "timestamp" : "2026-03-01 23:09:15",
+  "user" : "DOC-72B03525",
+  "action" : "OVERRIDE_DAY",
+  "detail" : "offday on 2026-02-05: removed 1 slots"
+}, {
+  "timestamp" : "2026-03-01 23:09:16",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:53368"
+}, {
+  "timestamp" : "2026-03-01 23:09:18",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:53369"
+}, {
+  "timestamp" : "2026-03-01 23:09:20",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:53370"
+}, {
+  "timestamp" : "2026-03-01 23:09:26",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:53372"
+}, {
+  "timestamp" : "2026-03-01 23:09:26",
+  "user" : "DOC-72B03525",
+  "action" : "OVERRIDE_DAY",
+  "detail" : "offday on 2026-02-04: removed 0 slots"
+}, {
+  "timestamp" : "2026-03-01 23:09:27",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:53373"
+}, {
+  "timestamp" : "2026-03-01 23:09:30",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:53375"
+}, {
+  "timestamp" : "2026-03-01 23:09:30",
+  "user" : "DOC-72B03525",
+  "action" : "OVERRIDE_DAY",
+  "detail" : "offday on 2026-02-04: removed 0 slots"
+}, {
+  "timestamp" : "2026-03-01 23:09:31",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:53376"
+}, {
+  "timestamp" : "2026-03-01 23:09:34",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:53377"
+}, {
+  "timestamp" : "2026-03-01 23:09:34",
+  "user" : "DOC-72B03525",
+  "action" : "OVERRIDE_DAY",
+  "detail" : "halfday on 2026-02-04: removed 0 slots"
+}, {
+  "timestamp" : "2026-03-01 23:09:36",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:53378"
+}, {
+  "timestamp" : "2026-03-01 23:09:53",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:53380"
+}, {
+  "timestamp" : "2026-03-01 23:09:55",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:53381"
+}, {
+  "timestamp" : "2026-03-01 23:10:06",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:53383"
+}, {
+  "timestamp" : "2026-03-01 23:10:12",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:53384"
+}, {
+  "timestamp" : "2026-03-01 23:10:15",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:53385"
+}, {
+  "timestamp" : "2026-03-01 23:10:15",
+  "user" : "PAT-6A9D3EFC",
+  "action" : "CANCEL_BOOKING",
+  "detail" : "Cancelled booking SCH-7EE1CDA8"
+}, {
+  "timestamp" : "2026-03-01 23:10:15",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:53386"
+}, {
+  "timestamp" : "2026-03-01 23:10:15",
+  "user" : "PAT-6A9D3EFC",
+  "action" : "BOOK_SLOT",
+  "detail" : "Booked slot SCH-563C2DB1"
+}, {
+  "timestamp" : "2026-03-01 23:10:16",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:53388"
+}, {
+  "timestamp" : "2026-03-01 23:10:17",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:53389"
+}, {
+  "timestamp" : "2026-03-01 23:10:23",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:53391"
+}, {
+  "timestamp" : "2026-03-01 23:10:43",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:53392"
+}, {
+  "timestamp" : "2026-03-01 23:10:43",
+  "user" : "PAT-6A9D3EFC",
+  "action" : "CANCEL_BOOKING",
+  "detail" : "Cancelled booking SCH-98B77D95"
+}, {
+  "timestamp" : "2026-03-01 23:10:44",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:53393"
+}, {
+  "timestamp" : "2026-03-01 23:10:45",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:53394"
+}, {
+  "timestamp" : "2026-03-01 23:10:48",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:53395"
+}, {
+  "timestamp" : "2026-03-01 23:10:48",
+  "user" : "DOC-72B03525",
+  "action" : "DELETE_SLOT",
+  "detail" : "Deleted slot SCH-98B77D95"
+}, {
+  "timestamp" : "2026-03-01 23:10:48",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:53396"
+}, {
+  "timestamp" : "2026-03-01 23:20:19",
+  "user" : "SERVER",
+  "action" : "START",
+  "detail" : "Server started on port 9090"
+}, {
+  "timestamp" : "2026-03-01 23:20:32",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:53489"
+}, {
+  "timestamp" : "2026-03-01 23:20:32",
+  "user" : "Yuri",
+  "action" : "LOGIN",
+  "detail" : "User logged in: DOC-7482E551"
+}, {
+  "timestamp" : "2026-03-01 23:20:32",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:53490"
+}, {
+  "timestamp" : "2026-03-01 23:20:34",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:53491"
+}, {
+  "timestamp" : "2026-03-01 23:20:38",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:53492"
+}, {
+  "timestamp" : "2026-03-01 23:20:38",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:53493"
+}, {
+  "timestamp" : "2026-03-01 23:20:38",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:53494"
+}, {
+  "timestamp" : "2026-03-01 23:20:48",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:53495"
+}, {
+  "timestamp" : "2026-03-01 23:20:48",
+  "user" : "Crane",
+  "action" : "LOGIN",
+  "detail" : "User logged in: PAT-6A9D3EFC"
+}, {
+  "timestamp" : "2026-03-01 23:20:48",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:53496"
+}, {
+  "timestamp" : "2026-03-01 23:20:58",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:53498"
+}, {
+  "timestamp" : "2026-03-02 00:16:47",
+  "user" : "SERVER",
+  "action" : "START",
+  "detail" : "Server started on port 9090"
+}, {
+  "timestamp" : "2026-03-02 00:16:59",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:53914"
+}, {
+  "timestamp" : "2026-03-02 00:16:59",
+  "user" : "Yuri",
+  "action" : "LOGIN",
+  "detail" : "User logged in: DOC-7482E551"
+}, {
+  "timestamp" : "2026-03-02 00:17:00",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:53915"
+}, {
+  "timestamp" : "2026-03-02 00:17:07",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:53916"
+}, {
+  "timestamp" : "2026-03-02 00:17:11",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:53917"
+}, {
+  "timestamp" : "2026-03-02 00:17:12",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:53919"
+}, {
+  "timestamp" : "2026-03-02 00:17:19",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:53922"
+}, {
+  "timestamp" : "2026-03-02 00:17:33",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:53924"
+}, {
+  "timestamp" : "2026-03-02 00:17:34",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:53925"
+}, {
+  "timestamp" : "2026-03-02 00:17:34",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:53926"
+}, {
+  "timestamp" : "2026-03-02 00:17:40",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:53928"
+}, {
+  "timestamp" : "2026-03-02 00:18:00",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:53929"
+}, {
+  "timestamp" : "2026-03-02 00:18:04",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:53930"
+}, {
+  "timestamp" : "2026-03-02 00:35:56",
+  "user" : "SERVER",
+  "action" : "START",
+  "detail" : "Server started on port 9090"
+}, {
+  "timestamp" : "2026-03-02 00:36:39",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:54062"
+}, {
+  "timestamp" : "2026-03-02 00:36:40",
+  "user" : "Jonard",
+  "action" : "REGISTER",
+  "detail" : "New patient registered: PAT-5A51C1AF"
+}, {
+  "timestamp" : "2026-03-02 00:36:43",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:54063"
+}, {
+  "timestamp" : "2026-03-02 00:36:43",
+  "user" : "Jonard",
+  "action" : "LOGIN",
+  "detail" : "User logged in: PAT-5A51C1AF"
+}, {
+  "timestamp" : "2026-03-02 00:36:43",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:54064"
+}, {
+  "timestamp" : "2026-03-02 00:36:47",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:54065"
+}, {
+  "timestamp" : "2026-03-02 00:36:51",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:54067"
+}, {
+  "timestamp" : "2026-03-02 00:36:51",
+  "user" : "PAT-5A51C1AF",
+  "action" : "BOOK_SLOT",
+  "detail" : "Booked slot SCH-32D90CFE"
+}, {
+  "timestamp" : "2026-03-02 00:37:34",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:54081"
+}, {
+  "timestamp" : "2026-03-02 00:37:34",
+  "user" : "sven",
+  "action" : "REGISTER",
+  "detail" : "New doctor registered: DOC-41AB7A75"
+}, {
+  "timestamp" : "2026-03-02 00:37:37",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:54082"
+}, {
+  "timestamp" : "2026-03-02 00:37:37",
+  "user" : "sven",
+  "action" : "LOGIN",
+  "detail" : "User logged in: DOC-41AB7A75"
+}, {
+  "timestamp" : "2026-03-02 00:37:37",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:54083"
+}, {
+  "timestamp" : "2026-03-02 00:37:51",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:54086"
+}, {
+  "timestamp" : "2026-03-02 00:37:51",
+  "user" : "DOC-41AB7A75",
+  "action" : "CREATE_SCHEDULE",
+  "detail" : "Created 132 slots for 2026-3"
+}, {
+  "timestamp" : "2026-03-02 00:37:52",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:54087"
+}, {
+  "timestamp" : "2026-03-02 00:38:01",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:54088"
+}, {
+  "timestamp" : "2026-03-02 00:38:01",
+  "user" : "Jonard",
+  "action" : "LOGIN",
+  "detail" : "User logged in: PAT-5A51C1AF"
+}, {
+  "timestamp" : "2026-03-02 00:38:01",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:54089"
+}, {
+  "timestamp" : "2026-03-02 00:38:20",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:54093"
+}, {
+  "timestamp" : "2026-03-02 00:38:20",
+  "user" : "sven",
+  "action" : "LOGIN",
+  "detail" : "User logged in: DOC-41AB7A75"
+}, {
+  "timestamp" : "2026-03-02 00:38:20",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:54094"
+}, {
+  "timestamp" : "2026-03-02 00:38:51",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:54095"
+}, {
+  "timestamp" : "2026-03-02 00:39:05",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:54096"
+}, {
+  "timestamp" : "2026-03-02 00:39:17",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:54097"
+}, {
+  "timestamp" : "2026-03-02 00:39:20",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:54099"
+}, {
+  "timestamp" : "2026-03-02 00:39:27",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:54100"
+}, {
+  "timestamp" : "2026-03-02 00:39:27",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:54101"
+}, {
+  "timestamp" : "2026-03-02 00:39:28",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:54102"
+}, {
+  "timestamp" : "2026-03-02 00:39:29",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:54103"
+}, {
+  "timestamp" : "2026-03-02 00:41:56",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:54133"
+}, {
+  "timestamp" : "2026-03-02 00:41:56",
+  "user" : "Yuri",
+  "action" : "LOGIN",
+  "detail" : "User logged in: DOC-7482E551"
+}, {
+  "timestamp" : "2026-03-02 00:41:56",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:54134"
+}, {
+  "timestamp" : "2026-03-02 00:42:10",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:54138"
+}, {
+  "timestamp" : "2026-03-02 00:42:10",
+  "user" : "Crane",
+  "action" : "LOGIN",
+  "detail" : "User logged in: PAT-6A9D3EFC"
+}, {
+  "timestamp" : "2026-03-02 00:42:10",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:54139"
+}, {
+  "timestamp" : "2026-03-02 00:42:14",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:54140"
+}, {
+  "timestamp" : "2026-03-02 00:42:20",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:54142"
+}, {
+  "timestamp" : "2026-03-02 00:42:20",
+  "user" : "PAT-6A9D3EFC",
+  "action" : "BOOK_SLOT",
+  "detail" : "Booked slot SCH-A31EADE1"
+}, {
+  "timestamp" : "2026-03-02 00:42:29",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:54146"
+}, {
+  "timestamp" : "2026-03-02 00:42:29",
+  "user" : "Yuri",
+  "action" : "LOGIN",
+  "detail" : "User logged in: DOC-7482E551"
+}, {
+  "timestamp" : "2026-03-02 00:42:29",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:54147"
+}, {
+  "timestamp" : "2026-03-02 00:42:45",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:54148"
+}, {
+  "timestamp" : "2026-03-02 00:43:07",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:54154"
+}, {
+  "timestamp" : "2026-03-02 02:21:05",
+  "user" : "SERVER",
+  "action" : "START",
+  "detail" : "Server started on port 9090"
+}, {
+  "timestamp" : "2026-03-02 02:21:18",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:55106"
+}, {
+  "timestamp" : "2026-03-02 02:21:19",
+  "user" : "Yuri",
+  "action" : "LOGIN",
+  "detail" : "User logged in: DOC-7482E551"
+}, {
+  "timestamp" : "2026-03-02 02:21:19",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:55107"
+}, {
+  "timestamp" : "2026-03-02 02:21:29",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:55108"
+}, {
+  "timestamp" : "2026-03-02 02:21:35",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:55109"
+}, {
+  "timestamp" : "2026-03-02 02:21:38",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:55110"
+}, {
+  "timestamp" : "2026-03-02 02:21:50",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:55111"
+}, {
+  "timestamp" : "2026-03-02 02:21:50",
+  "user" : "Crane",
+  "action" : "LOGIN",
+  "detail" : "User logged in: PAT-6A9D3EFC"
+}, {
+  "timestamp" : "2026-03-02 02:21:50",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:55112"
+}, {
+  "timestamp" : "2026-03-02 02:21:52",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:55113"
+}, {
+  "timestamp" : "2026-03-02 02:21:56",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:55115"
+}, {
+  "timestamp" : "2026-03-02 02:21:56",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:55116"
+}, {
+  "timestamp" : "2026-03-02 02:29:07",
+  "user" : "SERVER",
+  "action" : "START",
+  "detail" : "Server started on port 9090"
+}, {
+  "timestamp" : "2026-03-02 02:44:34",
+  "user" : "SERVER",
+  "action" : "START",
+  "detail" : "Server started on port 9090"
+}, {
+  "timestamp" : "2026-03-02 02:49:39",
+  "user" : "SERVER",
+  "action" : "START",
+  "detail" : "Server started on port 9090"
+}, {
+  "timestamp" : "2026-03-02 03:01:34",
+  "user" : "SERVER",
+  "action" : "START",
+  "detail" : "Server started on port 9090"
+}, {
+  "timestamp" : "2026-03-02 03:02:01",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:55743"
+}, {
+  "timestamp" : "2026-03-02 03:02:01",
+  "user" : "Yuri",
+  "action" : "LOGIN",
+  "detail" : "User logged in: DOC-7482E551"
+}, {
+  "timestamp" : "2026-03-02 03:02:01",
+  "user" : "SERVER",
+  "action" : "CONNECT",
+  "detail" : "Client connected: /127.0.0.1:55744"
+}, {
+  "timestamp" : "2026-03-02 04:16:58",
+  "user" : "SERVER",
+  "action" : "START",
+  "detail" : "Server started on port 9090"
+}, {
+  "timestamp" : "2026-03-12 02:00:35",
+  "user" : "SERVER",
+  "action" : "START",
+  "detail" : "Server started on port 1099"
+}, {
+  "timestamp" : "2026-03-12 02:19:41",
+  "user" : "SERVER",
+  "action" : "START",
+  "detail" : "Server started on port 1099"
+}, {
+  "timestamp" : "2026-03-12 02:20:00",
+  "user" : "Yuri",
+  "action" : "LOGIN",
+  "detail" : "User logged in: DOC-7482E551"
+}, {
+  "timestamp" : "2026-03-12 02:20:21",
+  "user" : "Crane",
+  "action" : "LOGIN",
+  "detail" : "User logged in: PAT-6A9D3EFC"
+}, {
+  "timestamp" : "2026-03-12 02:21:11",
+  "user" : "Jonard",
+  "action" : "LOGIN",
+  "detail" : "User logged in: PAT-5A51C1AF"
+}, {
+  "timestamp" : "2026-03-12 02:21:54",
+  "user" : "DOC-7482E551",
+  "action" : "CREATE_SCHEDULE",
+  "detail" : "Created 161 slots for 2026-12"
+}, {
+  "timestamp" : "2026-03-12 02:22:20",
+  "user" : "PAT-6A9D3EFC",
+  "action" : "BOOK_SLOT",
+  "detail" : "Booked slot SCH-A19D6F1E"
+}, {
+  "timestamp" : "2026-03-12 02:22:52",
+  "user" : "DOC-7482E551",
+  "action" : "OVERRIDE_DAY",
+  "detail" : "offday on 2026-12-31: removed 6 slots"
+}, {
+  "timestamp" : "2026-03-12 02:22:55",
+  "user" : "DOC-7482E551",
+  "action" : "OVERRIDE_DAY",
+  "detail" : "offday on 2026-12-30: removed 7 slots"
+}, {
+  "timestamp" : "2026-03-12 02:23:13",
+  "user" : "PAT-5A51C1AF",
+  "action" : "BOOK_SLOT",
+  "detail" : "Booked slot SCH-C7D0F070"
+}, {
+  "timestamp" : "2026-03-12 02:23:32",
+  "user" : "DOC-7482E551",
+  "action" : "DELETE_SLOT",
+  "detail" : "Deleted slot SCH-A19D6F1E"
+}, {
+  "timestamp" : "2026-03-12 02:23:53",
+  "user" : "PAT-6A9D3EFC",
+  "action" : "CANCEL_BOOKING",
+  "detail" : "Cancelled booking SCH-A31EADE1"
+}, {
+  "timestamp" : "2026-03-12 02:24:01",
+  "user" : "PAT-6A9D3EFC",
+  "action" : "CANCEL_BOOKING",
+  "detail" : "Cancelled booking SCH-AD2A6BBB"
+}, {
+  "timestamp" : "2026-03-12 02:24:01",
+  "user" : "PAT-6A9D3EFC",
+  "action" : "BOOK_SLOT",
+  "detail" : "Booked slot SCH-3BEEB391"
+}, {
+  "timestamp" : "2026-03-12 02:24:33",
+  "user" : "Jonard",
+  "action" : "LOGIN",
+  "detail" : "User logged in: PAT-5A51C1AF"
+}, {
+  "timestamp" : "2026-03-12 02:24:51",
+  "user" : "SERVER",
+  "action" : "STOP",
+  "detail" : "Server stopped."
+}, {
+  "timestamp" : "2026-03-12 02:24:54",
+  "user" : "Jonard",
+  "action" : "LOGIN",
+  "detail" : "User logged in: PAT-5A51C1AF"
+}, {
+  "timestamp" : "2026-03-12 02:24:58",
+  "user" : "Jonard",
+  "action" : "LOGIN",
+  "detail" : "User logged in: PAT-5A51C1AF"
+}, {
+  "timestamp" : "2026-03-12 02:25:05",
+  "user" : "PAT-5A51C1AF",
+  "action" : "BOOK_SLOT",
+  "detail" : "Booked slot SCH-669D189F"
+}, {
+  "timestamp" : "2026-03-12 03:28:04",
+  "user" : "SERVER",
+  "action" : "START",
+  "detail" : "Server started on port 1099"
+}, {
+  "timestamp" : "2026-03-13 06:08:18",
+  "user" : "SERVER",
+  "action" : "START",
+  "detail" : "Server started on port 1099"
+}, {
+  "timestamp" : "2026-03-13 06:19:09",
+  "user" : "Yuri",
+  "action" : "LOGIN",
+  "detail" : "User logged in: DOC-7482E551"
+}, {
+  "timestamp" : "2026-03-13 06:19:54",
+  "user" : "Yuri",
+  "action" : "LOGIN",
+  "detail" : "User logged in: DOC-7482E551"
+}, {
+  "timestamp" : "2026-03-13 06:20:09",
+  "user" : "Crane",
+  "action" : "LOGIN",
+  "detail" : "User logged in: PAT-6A9D3EFC"
+}, {
+  "timestamp" : "2026-03-13 06:20:29",
+  "user" : "Yuri",
+  "action" : "LOGIN",
+  "detail" : "User logged in: DOC-7482E551"
+}, {
+  "timestamp" : "2026-03-13 06:26:39",
+  "user" : "Yuri",
+  "action" : "LOGIN",
+  "detail" : "User logged in: DOC-7482E551"
+}, {
+  "timestamp" : "2026-03-13 06:26:47",
+  "user" : "Crane",
+  "action" : "LOGIN",
+  "detail" : "User logged in: PAT-6A9D3EFC"
+}, {
+  "timestamp" : "2026-03-13 06:28:45",
+  "user" : "Yuri",
+  "action" : "LOGIN",
+  "detail" : "User logged in: DOC-7482E551"
+}, {
+  "timestamp" : "2026-03-13 06:45:24",
+  "user" : "SERVER",
+  "action" : "START",
+  "detail" : "Server started on port 1099"
+}, {
+  "timestamp" : "2026-03-13 06:45:38",
+  "user" : "Yuri",
+  "action" : "LOGIN",
+  "detail" : "User logged in: DOC-7482E551"
+}, {
+  "timestamp" : "2026-03-13 06:45:48",
+  "user" : "DOC-7482E551",
+  "action" : "CANCEL_SLOT",
+  "detail" : "Cancelled slot SCH-AD2A6BBB"
+}, {
+  "timestamp" : "2026-03-13 06:45:54",
+  "user" : "DOC-7482E551",
+  "action" : "OVERRIDE_DAY",
+  "detail" : "offday on 2026-03-02: cancelled 4 slots"
+}, {
+  "timestamp" : "2026-03-13 06:46:14",
+  "user" : "Crane",
+  "action" : "LOGIN",
+  "detail" : "User logged in: PAT-6A9D3EFC"
+}, {
+  "timestamp" : "2026-03-13 06:47:09",
+  "user" : "DOC-7482E551",
+  "action" : "UPDATE_SLOT",
+  "detail" : "Updated slot SCH-74BF5414 to 01:00-02:00"
+}, {
+  "timestamp" : "2026-03-13 06:47:21",
+  "user" : "DOC-7482E551",
+  "action" : "CANCEL_SLOT",
+  "detail" : "Cancelled slot SCH-74BF5414"
+}, {
+  "timestamp" : "2026-03-13 06:55:55",
+  "user" : "Yuri",
+  "action" : "LOGIN",
+  "detail" : "User logged in: DOC-7482E551"
+}, {
+  "timestamp" : "2026-03-13 06:59:09",
+  "user" : "SERVER",
+  "action" : "START",
+  "detail" : "Server started on port 1099"
+}, {
+  "timestamp" : "2026-03-13 06:59:36",
+  "user" : "Ren",
+  "action" : "LOGIN",
+  "detail" : "User logged in: DOC-72B03525"
+}, {
+  "timestamp" : "2026-03-13 06:59:43",
+  "user" : "Crane",
+  "action" : "LOGIN",
+  "detail" : "User logged in: PAT-6A9D3EFC"
+}, {
+  "timestamp" : "2026-03-13 06:59:51",
+  "user" : "Jonard",
+  "action" : "LOGIN",
+  "detail" : "User logged in: PAT-5A51C1AF"
+}, {
+  "timestamp" : "2026-03-13 07:00:14",
+  "user" : "DOC-72B03525",
+  "action" : "OVERRIDE_DAY",
+  "detail" : "halfday on 2026-02-04: cancelled 0 slots"
+}, {
+  "timestamp" : "2026-03-13 07:00:19",
+  "user" : "DOC-72B03525",
+  "action" : "OVERRIDE_DAY",
+  "detail" : "offday on 2026-02-04: cancelled 1 slots"
+}, {
+  "timestamp" : "2026-03-13 07:00:26",
+  "user" : "DOC-72B03525",
+  "action" : "OVERRIDE_DAY",
+  "detail" : "offday on 2026-02-10: cancelled 1 slots"
+}, {
+  "timestamp" : "2026-03-13 07:00:31",
+  "user" : "DOC-72B03525",
+  "action" : "CANCEL_SLOT",
+  "detail" : "Cancelled slot SCH-84ACE4CE"
+}, {
+  "timestamp" : "2026-03-13 07:01:23",
+  "user" : "DOC-72B03525",
+  "action" : "UPDATE_SLOT",
+  "detail" : "Updated slot SCH-563C2DB1 to 08:00-09:00"
+}, {
+  "timestamp" : "2026-03-13 07:01:39",
+  "user" : "DOC-72B03525",
+  "action" : "CANCEL_SLOT",
+  "detail" : "Cancelled slot SCH-563C2DB1"
+}, {
+  "timestamp" : "2026-03-13 07:02:18",
+  "user" : "PAT-6A9D3EFC",
+  "action" : "BOOK_SLOT",
+  "detail" : "Booked slot SCH-DEF0BAE3"
+}, {
+  "timestamp" : "2026-03-13 07:02:42",
+  "user" : "PAT-6A9D3EFC",
+  "action" : "CANCEL_BOOKING",
+  "detail" : "Cancelled booking SCH-DEF0BAE3"
+}, {
+  "timestamp" : "2026-03-13 07:03:29",
+  "user" : "PAT-6A9D3EFC",
+  "action" : "BOOK_SLOT",
+  "detail" : "Booked slot SCH-CBB8D6BF"
+}, {
+  "timestamp" : "2026-03-13 22:41:56",
+  "user" : "SERVER",
+  "action" : "START",
+  "detail" : "Server started on port 1099"
+} ]

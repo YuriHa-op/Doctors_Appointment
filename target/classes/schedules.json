@@ -1,0 +1,3883 @@
+[ {
+  "id" : "SCH-74BF5414",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-03-02",
+  "startTime" : "01:00",
+  "endTime" : "02:00",
+  "status" : "Cancelled",
+  "patientId" : "PAT-6A9D3EFC"
+}, {
+  "id" : "SCH-32D90CFE",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-03-02",
+  "startTime" : "10:00",
+  "endTime" : "11:00",
+  "status" : "Booked",
+  "patientId" : "PAT-5A51C1AF"
+}, {
+  "id" : "SCH-AD2A6BBB",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-03-02",
+  "startTime" : "11:00",
+  "endTime" : "12:00",
+  "status" : "Cancelled",
+  "patientId" : ""
+}, {
+  "id" : "SCH-03F3DF8D",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-03-02",
+  "startTime" : "13:00",
+  "endTime" : "14:00",
+  "status" : "Cancelled",
+  "patientId" : ""
+}, {
+  "id" : "SCH-4DDE32FC",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-03-02",
+  "startTime" : "14:00",
+  "endTime" : "15:00",
+  "status" : "Cancelled",
+  "patientId" : ""
+}, {
+  "id" : "SCH-AF6D1269",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-03-02",
+  "startTime" : "15:00",
+  "endTime" : "16:00",
+  "status" : "Cancelled",
+  "patientId" : ""
+}, {
+  "id" : "SCH-8E23E993",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-03-02",
+  "startTime" : "16:00",
+  "endTime" : "17:00",
+  "status" : "Cancelled",
+  "patientId" : ""
+}, {
+  "id" : "SCH-CFF35C07",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-03-03",
+  "startTime" : "08:00",
+  "endTime" : "09:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-A123C4E2",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-03-03",
+  "startTime" : "09:00",
+  "endTime" : "10:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-A41D361E",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-03-03",
+  "startTime" : "10:00",
+  "endTime" : "11:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-3BEEB391",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-03-03",
+  "startTime" : "11:00",
+  "endTime" : "12:00",
+  "status" : "Booked",
+  "patientId" : "PAT-6A9D3EFC"
+}, {
+  "id" : "SCH-D0288EF0",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-03-03",
+  "startTime" : "13:00",
+  "endTime" : "14:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-0C25E573",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-03-03",
+  "startTime" : "14:00",
+  "endTime" : "15:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-EBE9DBCF",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-03-03",
+  "startTime" : "15:00",
+  "endTime" : "16:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-E6B791BF",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-03-03",
+  "startTime" : "16:00",
+  "endTime" : "17:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-7C4E5DEC",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-03-04",
+  "startTime" : "08:00",
+  "endTime" : "09:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-75F4E0C6",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-03-04",
+  "startTime" : "09:00",
+  "endTime" : "10:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-410D0161",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-03-04",
+  "startTime" : "10:00",
+  "endTime" : "11:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-15C31D7D",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-03-04",
+  "startTime" : "11:00",
+  "endTime" : "12:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-4D907188",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-03-04",
+  "startTime" : "13:00",
+  "endTime" : "14:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-3775034D",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-03-04",
+  "startTime" : "14:00",
+  "endTime" : "15:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-06FFB885",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-03-04",
+  "startTime" : "15:00",
+  "endTime" : "16:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-965624A5",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-03-04",
+  "startTime" : "16:00",
+  "endTime" : "17:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-EBDDC285",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-03-05",
+  "startTime" : "08:00",
+  "endTime" : "09:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-5413EAD9",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-03-05",
+  "startTime" : "09:00",
+  "endTime" : "10:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-2BD73DA2",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-03-05",
+  "startTime" : "10:00",
+  "endTime" : "11:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-53C8DFE6",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-03-05",
+  "startTime" : "11:00",
+  "endTime" : "12:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-EC337945",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-03-05",
+  "startTime" : "13:00",
+  "endTime" : "14:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-4468EBB9",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-03-05",
+  "startTime" : "14:00",
+  "endTime" : "15:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-7FE36396",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-03-05",
+  "startTime" : "15:00",
+  "endTime" : "16:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-3B4E2B24",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-03-05",
+  "startTime" : "16:00",
+  "endTime" : "17:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-52FE6F6C",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-03-06",
+  "startTime" : "08:00",
+  "endTime" : "09:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-B7ED1D1A",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-03-06",
+  "startTime" : "09:00",
+  "endTime" : "10:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-65BBCB6C",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-03-06",
+  "startTime" : "10:00",
+  "endTime" : "11:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-ACD3019D",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-03-06",
+  "startTime" : "11:00",
+  "endTime" : "12:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-6DD043A6",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-03-06",
+  "startTime" : "13:00",
+  "endTime" : "14:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-2E508C60",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-03-06",
+  "startTime" : "14:00",
+  "endTime" : "15:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-369859D9",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-03-06",
+  "startTime" : "15:00",
+  "endTime" : "16:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-17C97605",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-03-06",
+  "startTime" : "16:00",
+  "endTime" : "17:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-4EA8E07A",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-03-09",
+  "startTime" : "08:00",
+  "endTime" : "09:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-BA8356C8",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-03-09",
+  "startTime" : "09:00",
+  "endTime" : "10:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-E2A9087A",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-03-09",
+  "startTime" : "10:00",
+  "endTime" : "11:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-49FF32ED",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-03-09",
+  "startTime" : "11:00",
+  "endTime" : "12:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-725BBD1A",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-03-09",
+  "startTime" : "13:00",
+  "endTime" : "14:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-EE587498",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-03-09",
+  "startTime" : "14:00",
+  "endTime" : "15:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-D471DFCE",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-03-09",
+  "startTime" : "15:00",
+  "endTime" : "16:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-6316A5A6",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-03-09",
+  "startTime" : "16:00",
+  "endTime" : "17:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-800F163C",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-03-10",
+  "startTime" : "08:00",
+  "endTime" : "09:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-C0E26528",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-03-10",
+  "startTime" : "09:00",
+  "endTime" : "10:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-96D0EC31",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-03-10",
+  "startTime" : "10:00",
+  "endTime" : "11:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-01F21005",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-03-10",
+  "startTime" : "11:00",
+  "endTime" : "12:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-2D8C9E56",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-03-10",
+  "startTime" : "13:00",
+  "endTime" : "14:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-11DBD571",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-03-10",
+  "startTime" : "14:00",
+  "endTime" : "15:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-F850510F",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-03-10",
+  "startTime" : "15:00",
+  "endTime" : "16:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-8EE13667",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-03-10",
+  "startTime" : "16:00",
+  "endTime" : "17:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-B98785E6",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-03-11",
+  "startTime" : "08:00",
+  "endTime" : "09:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-BD6354B7",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-03-11",
+  "startTime" : "09:00",
+  "endTime" : "10:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-70AE3D83",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-03-11",
+  "startTime" : "10:00",
+  "endTime" : "11:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-C3BADB45",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-03-11",
+  "startTime" : "11:00",
+  "endTime" : "12:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-4FB4D8BE",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-03-11",
+  "startTime" : "13:00",
+  "endTime" : "14:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-817A1B75",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-03-11",
+  "startTime" : "14:00",
+  "endTime" : "15:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-206CA0E0",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-03-11",
+  "startTime" : "15:00",
+  "endTime" : "16:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-552BE994",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-03-11",
+  "startTime" : "16:00",
+  "endTime" : "17:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-8B8A5032",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-03-12",
+  "startTime" : "08:00",
+  "endTime" : "09:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-1332A7A4",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-03-12",
+  "startTime" : "09:00",
+  "endTime" : "10:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-55B7B078",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-03-12",
+  "startTime" : "10:00",
+  "endTime" : "11:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-4CB36871",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-03-12",
+  "startTime" : "11:00",
+  "endTime" : "12:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-E6FD22A0",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-03-12",
+  "startTime" : "13:00",
+  "endTime" : "14:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-53BE02DC",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-03-12",
+  "startTime" : "14:00",
+  "endTime" : "15:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-4CF5C452",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-03-12",
+  "startTime" : "15:00",
+  "endTime" : "16:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-BE93B76A",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-03-12",
+  "startTime" : "16:00",
+  "endTime" : "17:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-4CB2F1D0",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-03-13",
+  "startTime" : "08:00",
+  "endTime" : "09:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-FAE2E09C",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-03-13",
+  "startTime" : "09:00",
+  "endTime" : "10:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-B8B39DA0",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-03-13",
+  "startTime" : "10:00",
+  "endTime" : "11:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-B6E85318",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-03-13",
+  "startTime" : "11:00",
+  "endTime" : "12:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-7D9EBB3E",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-03-13",
+  "startTime" : "13:00",
+  "endTime" : "14:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-938E0FE8",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-03-13",
+  "startTime" : "14:00",
+  "endTime" : "15:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-FCF26473",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-03-13",
+  "startTime" : "15:00",
+  "endTime" : "16:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-FC799458",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-03-13",
+  "startTime" : "16:00",
+  "endTime" : "17:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-3A248C08",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-03-16",
+  "startTime" : "08:00",
+  "endTime" : "09:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-B535E984",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-03-16",
+  "startTime" : "09:00",
+  "endTime" : "10:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-BC333CF8",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-03-16",
+  "startTime" : "10:00",
+  "endTime" : "11:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-9AF658DE",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-03-16",
+  "startTime" : "11:00",
+  "endTime" : "12:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-36D858BC",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-03-16",
+  "startTime" : "13:00",
+  "endTime" : "14:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-CEA5EF15",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-03-16",
+  "startTime" : "14:00",
+  "endTime" : "15:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-72FE6D57",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-03-16",
+  "startTime" : "15:00",
+  "endTime" : "16:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-122DA620",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-03-16",
+  "startTime" : "16:00",
+  "endTime" : "17:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-D24E2ED4",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-03-17",
+  "startTime" : "08:00",
+  "endTime" : "09:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-E1663662",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-03-17",
+  "startTime" : "09:00",
+  "endTime" : "10:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-D8D4A334",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-03-17",
+  "startTime" : "10:00",
+  "endTime" : "11:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-12CBF18D",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-03-17",
+  "startTime" : "11:00",
+  "endTime" : "12:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-0D7F35B1",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-03-17",
+  "startTime" : "13:00",
+  "endTime" : "14:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-83324521",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-03-17",
+  "startTime" : "14:00",
+  "endTime" : "15:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-7D415DB0",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-03-17",
+  "startTime" : "15:00",
+  "endTime" : "16:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-7B902B18",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-03-17",
+  "startTime" : "16:00",
+  "endTime" : "17:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-70D1FA61",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-03-18",
+  "startTime" : "08:00",
+  "endTime" : "09:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-0B026C38",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-03-18",
+  "startTime" : "09:00",
+  "endTime" : "10:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-F26F32D7",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-03-18",
+  "startTime" : "10:00",
+  "endTime" : "11:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-322B849D",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-03-18",
+  "startTime" : "11:00",
+  "endTime" : "12:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-35C03084",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-03-18",
+  "startTime" : "13:00",
+  "endTime" : "14:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-E77846DE",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-03-18",
+  "startTime" : "14:00",
+  "endTime" : "15:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-1DD64CFE",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-03-18",
+  "startTime" : "15:00",
+  "endTime" : "16:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-5E54D4AF",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-03-18",
+  "startTime" : "16:00",
+  "endTime" : "17:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-711C4A65",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-03-19",
+  "startTime" : "08:00",
+  "endTime" : "09:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-A262316B",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-03-19",
+  "startTime" : "09:00",
+  "endTime" : "10:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-7332D69D",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-03-19",
+  "startTime" : "10:00",
+  "endTime" : "11:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-E5DABE2D",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-03-19",
+  "startTime" : "11:00",
+  "endTime" : "12:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-46228753",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-03-19",
+  "startTime" : "13:00",
+  "endTime" : "14:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-2CC448C1",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-03-19",
+  "startTime" : "14:00",
+  "endTime" : "15:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-FBA06A69",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-03-19",
+  "startTime" : "15:00",
+  "endTime" : "16:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-7F2AD95A",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-03-19",
+  "startTime" : "16:00",
+  "endTime" : "17:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-8F0E7A95",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-03-20",
+  "startTime" : "08:00",
+  "endTime" : "09:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-87C78B27",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-03-20",
+  "startTime" : "09:00",
+  "endTime" : "10:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-0349A2D4",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-03-20",
+  "startTime" : "10:00",
+  "endTime" : "11:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-1F04C356",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-03-20",
+  "startTime" : "11:00",
+  "endTime" : "12:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-063AE7C0",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-03-20",
+  "startTime" : "13:00",
+  "endTime" : "14:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-4149642A",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-03-20",
+  "startTime" : "14:00",
+  "endTime" : "15:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-CFF3939C",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-03-20",
+  "startTime" : "15:00",
+  "endTime" : "16:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-E6C7AC0C",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-03-20",
+  "startTime" : "16:00",
+  "endTime" : "17:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-7A95941F",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-03-23",
+  "startTime" : "08:00",
+  "endTime" : "09:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-D4E5656C",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-03-23",
+  "startTime" : "09:00",
+  "endTime" : "10:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-A9CF5DD3",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-03-23",
+  "startTime" : "10:00",
+  "endTime" : "11:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-0DAE5372",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-03-23",
+  "startTime" : "11:00",
+  "endTime" : "12:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-00331B79",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-03-23",
+  "startTime" : "13:00",
+  "endTime" : "14:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-A697D715",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-03-23",
+  "startTime" : "14:00",
+  "endTime" : "15:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-745C7CB2",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-03-23",
+  "startTime" : "15:00",
+  "endTime" : "16:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-8EEF0C89",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-03-23",
+  "startTime" : "16:00",
+  "endTime" : "17:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-E649EEA0",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-03-24",
+  "startTime" : "08:00",
+  "endTime" : "09:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-646CCDCD",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-03-24",
+  "startTime" : "09:00",
+  "endTime" : "10:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-0AB95808",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-03-24",
+  "startTime" : "10:00",
+  "endTime" : "11:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-278F4E1E",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-03-24",
+  "startTime" : "11:00",
+  "endTime" : "12:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-100C1E2F",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-03-24",
+  "startTime" : "13:00",
+  "endTime" : "14:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-A4042ED9",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-03-24",
+  "startTime" : "14:00",
+  "endTime" : "15:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-3AF3AE2F",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-03-24",
+  "startTime" : "15:00",
+  "endTime" : "16:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-B8249FC5",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-03-24",
+  "startTime" : "16:00",
+  "endTime" : "17:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-7D62238E",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-03-25",
+  "startTime" : "08:00",
+  "endTime" : "09:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-9043AF48",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-03-25",
+  "startTime" : "09:00",
+  "endTime" : "10:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-D5B89E6E",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-03-25",
+  "startTime" : "10:00",
+  "endTime" : "11:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-BA7532C0",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-03-25",
+  "startTime" : "11:00",
+  "endTime" : "12:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-675113DF",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-03-25",
+  "startTime" : "13:00",
+  "endTime" : "14:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-4800E482",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-03-25",
+  "startTime" : "14:00",
+  "endTime" : "15:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-801367C0",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-03-25",
+  "startTime" : "15:00",
+  "endTime" : "16:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-E04DC336",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-03-25",
+  "startTime" : "16:00",
+  "endTime" : "17:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-8BF5B979",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-03-26",
+  "startTime" : "08:00",
+  "endTime" : "09:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-FE3C7594",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-03-26",
+  "startTime" : "09:00",
+  "endTime" : "10:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-A0BD5B1B",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-03-26",
+  "startTime" : "10:00",
+  "endTime" : "11:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-DB7D1C55",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-03-26",
+  "startTime" : "11:00",
+  "endTime" : "12:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-E9F92D81",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-03-26",
+  "startTime" : "13:00",
+  "endTime" : "14:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-3860DF91",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-03-26",
+  "startTime" : "14:00",
+  "endTime" : "15:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-CD753DB0",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-03-26",
+  "startTime" : "15:00",
+  "endTime" : "16:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-8CB27F2A",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-03-26",
+  "startTime" : "16:00",
+  "endTime" : "17:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-809C05AD",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-03-27",
+  "startTime" : "08:00",
+  "endTime" : "09:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-F001F00C",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-03-27",
+  "startTime" : "09:00",
+  "endTime" : "10:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-75FF927E",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-03-27",
+  "startTime" : "10:00",
+  "endTime" : "11:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-61CD1251",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-03-27",
+  "startTime" : "11:00",
+  "endTime" : "12:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-A24FE954",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-03-27",
+  "startTime" : "13:00",
+  "endTime" : "14:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-D1570D4C",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-03-27",
+  "startTime" : "14:00",
+  "endTime" : "15:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-104CF7C7",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-03-27",
+  "startTime" : "15:00",
+  "endTime" : "16:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-28F8B0CE",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-03-27",
+  "startTime" : "16:00",
+  "endTime" : "17:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-D57DA35E",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-03-30",
+  "startTime" : "08:00",
+  "endTime" : "09:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-912D4F49",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-03-30",
+  "startTime" : "09:00",
+  "endTime" : "10:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-A56A12DC",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-03-30",
+  "startTime" : "10:00",
+  "endTime" : "11:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-6F80EFC1",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-03-30",
+  "startTime" : "11:00",
+  "endTime" : "12:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-642FBF8A",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-03-30",
+  "startTime" : "13:00",
+  "endTime" : "14:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-4CFB36AB",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-03-30",
+  "startTime" : "14:00",
+  "endTime" : "15:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-48D371D6",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-03-30",
+  "startTime" : "15:00",
+  "endTime" : "16:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-32B32C0B",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-03-30",
+  "startTime" : "16:00",
+  "endTime" : "17:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-FD22EE3E",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-03-31",
+  "startTime" : "08:00",
+  "endTime" : "09:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-860C45EC",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-03-31",
+  "startTime" : "09:00",
+  "endTime" : "10:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-BDB37043",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-03-31",
+  "startTime" : "10:00",
+  "endTime" : "11:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-B2D398B1",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-03-31",
+  "startTime" : "11:00",
+  "endTime" : "12:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-B31DE92B",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-03-31",
+  "startTime" : "13:00",
+  "endTime" : "14:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-D95ED9F7",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-03-31",
+  "startTime" : "14:00",
+  "endTime" : "15:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-C9FA14EF",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-03-31",
+  "startTime" : "15:00",
+  "endTime" : "16:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-A31EADE1",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-03-31",
+  "startTime" : "16:00",
+  "endTime" : "17:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-DDF4BF51",
+  "doctorId" : "DOC-72B03525",
+  "date" : "2026-02-04",
+  "startTime" : "08:00",
+  "endTime" : "09:00",
+  "status" : "Booked",
+  "patientId" : "PAT-0C31F41D"
+}, {
+  "id" : "SCH-DEF0BAE3",
+  "doctorId" : "DOC-72B03525",
+  "date" : "2026-02-06",
+  "startTime" : "09:00",
+  "endTime" : "10:00",
+  "status" : "Cancelled",
+  "patientId" : "PAT-6A9D3EFC",
+  "patientName" : "Crane Hart Paganaje"
+}, {
+  "id" : "SCH-CBB8D6BF",
+  "doctorId" : "DOC-72B03525",
+  "date" : "2026-02-09",
+  "startTime" : "08:00",
+  "endTime" : "09:00",
+  "status" : "Booked",
+  "patientId" : "PAT-6A9D3EFC",
+  "patientName" : "Crane Hart Paganaje"
+}, {
+  "id" : "SCH-1AD0910C",
+  "doctorId" : "DOC-72B03525",
+  "date" : "2026-02-09",
+  "startTime" : "09:00",
+  "endTime" : "10:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-563C2DB1",
+  "doctorId" : "DOC-72B03525",
+  "date" : "2026-02-10",
+  "startTime" : "08:00",
+  "endTime" : "09:00",
+  "status" : "Cancelled",
+  "patientId" : "PAT-6A9D3EFC"
+}, {
+  "id" : "SCH-D7333A98",
+  "doctorId" : "DOC-72B03525",
+  "date" : "2026-02-11",
+  "startTime" : "08:00",
+  "endTime" : "09:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-53DA0F3B",
+  "doctorId" : "DOC-72B03525",
+  "date" : "2026-02-11",
+  "startTime" : "09:00",
+  "endTime" : "10:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-2AD55129",
+  "doctorId" : "DOC-72B03525",
+  "date" : "2026-02-12",
+  "startTime" : "08:00",
+  "endTime" : "09:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-92F7126C",
+  "doctorId" : "DOC-72B03525",
+  "date" : "2026-02-12",
+  "startTime" : "09:00",
+  "endTime" : "10:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-058F8B38",
+  "doctorId" : "DOC-72B03525",
+  "date" : "2026-02-13",
+  "startTime" : "08:00",
+  "endTime" : "09:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-DF76E5BA",
+  "doctorId" : "DOC-72B03525",
+  "date" : "2026-02-13",
+  "startTime" : "09:00",
+  "endTime" : "10:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-46864853",
+  "doctorId" : "DOC-72B03525",
+  "date" : "2026-02-16",
+  "startTime" : "08:00",
+  "endTime" : "09:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-028B9241",
+  "doctorId" : "DOC-72B03525",
+  "date" : "2026-02-16",
+  "startTime" : "09:00",
+  "endTime" : "10:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-DA382648",
+  "doctorId" : "DOC-72B03525",
+  "date" : "2026-02-17",
+  "startTime" : "08:00",
+  "endTime" : "09:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-A4FAE748",
+  "doctorId" : "DOC-72B03525",
+  "date" : "2026-02-17",
+  "startTime" : "09:00",
+  "endTime" : "10:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-259442DE",
+  "doctorId" : "DOC-72B03525",
+  "date" : "2026-02-18",
+  "startTime" : "08:00",
+  "endTime" : "09:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-449227DE",
+  "doctorId" : "DOC-72B03525",
+  "date" : "2026-02-18",
+  "startTime" : "09:00",
+  "endTime" : "10:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-4775D1B6",
+  "doctorId" : "DOC-72B03525",
+  "date" : "2026-02-19",
+  "startTime" : "08:00",
+  "endTime" : "09:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-654FB176",
+  "doctorId" : "DOC-72B03525",
+  "date" : "2026-02-19",
+  "startTime" : "09:00",
+  "endTime" : "10:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-FFA95113",
+  "doctorId" : "DOC-72B03525",
+  "date" : "2026-02-20",
+  "startTime" : "08:00",
+  "endTime" : "09:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-A930C517",
+  "doctorId" : "DOC-72B03525",
+  "date" : "2026-02-20",
+  "startTime" : "09:00",
+  "endTime" : "10:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-D1D3A338",
+  "doctorId" : "DOC-72B03525",
+  "date" : "2026-02-23",
+  "startTime" : "08:00",
+  "endTime" : "09:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-B7DC606F",
+  "doctorId" : "DOC-72B03525",
+  "date" : "2026-02-23",
+  "startTime" : "09:00",
+  "endTime" : "10:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-95BF925A",
+  "doctorId" : "DOC-72B03525",
+  "date" : "2026-02-24",
+  "startTime" : "08:00",
+  "endTime" : "09:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-5CE8C9A5",
+  "doctorId" : "DOC-72B03525",
+  "date" : "2026-02-24",
+  "startTime" : "09:00",
+  "endTime" : "10:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-777B097A",
+  "doctorId" : "DOC-72B03525",
+  "date" : "2026-02-25",
+  "startTime" : "08:00",
+  "endTime" : "09:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-1043CDBA",
+  "doctorId" : "DOC-72B03525",
+  "date" : "2026-02-25",
+  "startTime" : "09:00",
+  "endTime" : "10:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-3B57FAE0",
+  "doctorId" : "DOC-72B03525",
+  "date" : "2026-02-26",
+  "startTime" : "08:00",
+  "endTime" : "09:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-413D6C38",
+  "doctorId" : "DOC-72B03525",
+  "date" : "2026-02-26",
+  "startTime" : "09:00",
+  "endTime" : "10:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-0F31F5FC",
+  "doctorId" : "DOC-72B03525",
+  "date" : "2026-02-27",
+  "startTime" : "08:00",
+  "endTime" : "09:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-81EA519A",
+  "doctorId" : "DOC-72B03525",
+  "date" : "2026-02-27",
+  "startTime" : "09:00",
+  "endTime" : "10:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-A88756AB",
+  "doctorId" : "DOC-41AB7A75",
+  "date" : "2026-03-02",
+  "startTime" : "08:00",
+  "endTime" : "09:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-87E13935",
+  "doctorId" : "DOC-41AB7A75",
+  "date" : "2026-03-02",
+  "startTime" : "09:00",
+  "endTime" : "10:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-5F3D91EE",
+  "doctorId" : "DOC-41AB7A75",
+  "date" : "2026-03-02",
+  "startTime" : "10:00",
+  "endTime" : "11:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-6D5AEEC3",
+  "doctorId" : "DOC-41AB7A75",
+  "date" : "2026-03-02",
+  "startTime" : "11:00",
+  "endTime" : "12:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-7F612BEE",
+  "doctorId" : "DOC-41AB7A75",
+  "date" : "2026-03-02",
+  "startTime" : "13:00",
+  "endTime" : "14:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-2F22F813",
+  "doctorId" : "DOC-41AB7A75",
+  "date" : "2026-03-02",
+  "startTime" : "14:00",
+  "endTime" : "15:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-E4494C31",
+  "doctorId" : "DOC-41AB7A75",
+  "date" : "2026-03-03",
+  "startTime" : "08:00",
+  "endTime" : "09:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-A2B316CF",
+  "doctorId" : "DOC-41AB7A75",
+  "date" : "2026-03-03",
+  "startTime" : "09:00",
+  "endTime" : "10:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-4A128237",
+  "doctorId" : "DOC-41AB7A75",
+  "date" : "2026-03-03",
+  "startTime" : "10:00",
+  "endTime" : "11:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-A17F8EBE",
+  "doctorId" : "DOC-41AB7A75",
+  "date" : "2026-03-03",
+  "startTime" : "11:00",
+  "endTime" : "12:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-10C303A7",
+  "doctorId" : "DOC-41AB7A75",
+  "date" : "2026-03-03",
+  "startTime" : "13:00",
+  "endTime" : "14:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-3B8FA7CF",
+  "doctorId" : "DOC-41AB7A75",
+  "date" : "2026-03-03",
+  "startTime" : "14:00",
+  "endTime" : "15:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-39EF7FD4",
+  "doctorId" : "DOC-41AB7A75",
+  "date" : "2026-03-04",
+  "startTime" : "08:00",
+  "endTime" : "09:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-BD2F30FC",
+  "doctorId" : "DOC-41AB7A75",
+  "date" : "2026-03-04",
+  "startTime" : "09:00",
+  "endTime" : "10:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-36DB8F34",
+  "doctorId" : "DOC-41AB7A75",
+  "date" : "2026-03-04",
+  "startTime" : "10:00",
+  "endTime" : "11:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-57C842E1",
+  "doctorId" : "DOC-41AB7A75",
+  "date" : "2026-03-04",
+  "startTime" : "11:00",
+  "endTime" : "12:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-0886318E",
+  "doctorId" : "DOC-41AB7A75",
+  "date" : "2026-03-04",
+  "startTime" : "13:00",
+  "endTime" : "14:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-FA73BEA3",
+  "doctorId" : "DOC-41AB7A75",
+  "date" : "2026-03-04",
+  "startTime" : "14:00",
+  "endTime" : "15:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-99531DA0",
+  "doctorId" : "DOC-41AB7A75",
+  "date" : "2026-03-05",
+  "startTime" : "08:00",
+  "endTime" : "09:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-C9264155",
+  "doctorId" : "DOC-41AB7A75",
+  "date" : "2026-03-05",
+  "startTime" : "09:00",
+  "endTime" : "10:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-CA339691",
+  "doctorId" : "DOC-41AB7A75",
+  "date" : "2026-03-05",
+  "startTime" : "10:00",
+  "endTime" : "11:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-F27BB193",
+  "doctorId" : "DOC-41AB7A75",
+  "date" : "2026-03-05",
+  "startTime" : "11:00",
+  "endTime" : "12:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-E321D4BF",
+  "doctorId" : "DOC-41AB7A75",
+  "date" : "2026-03-05",
+  "startTime" : "13:00",
+  "endTime" : "14:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-7A11EEB8",
+  "doctorId" : "DOC-41AB7A75",
+  "date" : "2026-03-05",
+  "startTime" : "14:00",
+  "endTime" : "15:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-5D9A01D9",
+  "doctorId" : "DOC-41AB7A75",
+  "date" : "2026-03-06",
+  "startTime" : "08:00",
+  "endTime" : "09:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-352EEF31",
+  "doctorId" : "DOC-41AB7A75",
+  "date" : "2026-03-06",
+  "startTime" : "09:00",
+  "endTime" : "10:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-9A10B32D",
+  "doctorId" : "DOC-41AB7A75",
+  "date" : "2026-03-06",
+  "startTime" : "10:00",
+  "endTime" : "11:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-CFD9B27B",
+  "doctorId" : "DOC-41AB7A75",
+  "date" : "2026-03-06",
+  "startTime" : "11:00",
+  "endTime" : "12:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-3654DC21",
+  "doctorId" : "DOC-41AB7A75",
+  "date" : "2026-03-06",
+  "startTime" : "13:00",
+  "endTime" : "14:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-AE04C6A4",
+  "doctorId" : "DOC-41AB7A75",
+  "date" : "2026-03-06",
+  "startTime" : "14:00",
+  "endTime" : "15:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-EC9BF7A8",
+  "doctorId" : "DOC-41AB7A75",
+  "date" : "2026-03-09",
+  "startTime" : "08:00",
+  "endTime" : "09:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-CA990AC6",
+  "doctorId" : "DOC-41AB7A75",
+  "date" : "2026-03-09",
+  "startTime" : "09:00",
+  "endTime" : "10:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-DEDACA93",
+  "doctorId" : "DOC-41AB7A75",
+  "date" : "2026-03-09",
+  "startTime" : "10:00",
+  "endTime" : "11:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-99053E7A",
+  "doctorId" : "DOC-41AB7A75",
+  "date" : "2026-03-09",
+  "startTime" : "11:00",
+  "endTime" : "12:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-C2FFD360",
+  "doctorId" : "DOC-41AB7A75",
+  "date" : "2026-03-09",
+  "startTime" : "13:00",
+  "endTime" : "14:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-6A5F1FA4",
+  "doctorId" : "DOC-41AB7A75",
+  "date" : "2026-03-09",
+  "startTime" : "14:00",
+  "endTime" : "15:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-729C9867",
+  "doctorId" : "DOC-41AB7A75",
+  "date" : "2026-03-10",
+  "startTime" : "08:00",
+  "endTime" : "09:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-4C85A200",
+  "doctorId" : "DOC-41AB7A75",
+  "date" : "2026-03-10",
+  "startTime" : "09:00",
+  "endTime" : "10:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-D5D76A84",
+  "doctorId" : "DOC-41AB7A75",
+  "date" : "2026-03-10",
+  "startTime" : "10:00",
+  "endTime" : "11:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-422B42AD",
+  "doctorId" : "DOC-41AB7A75",
+  "date" : "2026-03-10",
+  "startTime" : "11:00",
+  "endTime" : "12:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-D2519DB5",
+  "doctorId" : "DOC-41AB7A75",
+  "date" : "2026-03-10",
+  "startTime" : "13:00",
+  "endTime" : "14:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-497406F3",
+  "doctorId" : "DOC-41AB7A75",
+  "date" : "2026-03-10",
+  "startTime" : "14:00",
+  "endTime" : "15:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-4E8F9764",
+  "doctorId" : "DOC-41AB7A75",
+  "date" : "2026-03-11",
+  "startTime" : "08:00",
+  "endTime" : "09:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-B07C8357",
+  "doctorId" : "DOC-41AB7A75",
+  "date" : "2026-03-11",
+  "startTime" : "09:00",
+  "endTime" : "10:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-DAE290F2",
+  "doctorId" : "DOC-41AB7A75",
+  "date" : "2026-03-11",
+  "startTime" : "10:00",
+  "endTime" : "11:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-834D0E79",
+  "doctorId" : "DOC-41AB7A75",
+  "date" : "2026-03-11",
+  "startTime" : "11:00",
+  "endTime" : "12:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-F429A60F",
+  "doctorId" : "DOC-41AB7A75",
+  "date" : "2026-03-11",
+  "startTime" : "13:00",
+  "endTime" : "14:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-9DACB218",
+  "doctorId" : "DOC-41AB7A75",
+  "date" : "2026-03-11",
+  "startTime" : "14:00",
+  "endTime" : "15:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-48B4AC3A",
+  "doctorId" : "DOC-41AB7A75",
+  "date" : "2026-03-12",
+  "startTime" : "08:00",
+  "endTime" : "09:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-00740826",
+  "doctorId" : "DOC-41AB7A75",
+  "date" : "2026-03-12",
+  "startTime" : "09:00",
+  "endTime" : "10:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-29B6766B",
+  "doctorId" : "DOC-41AB7A75",
+  "date" : "2026-03-12",
+  "startTime" : "10:00",
+  "endTime" : "11:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-F021FC82",
+  "doctorId" : "DOC-41AB7A75",
+  "date" : "2026-03-12",
+  "startTime" : "11:00",
+  "endTime" : "12:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-B3DEEFE7",
+  "doctorId" : "DOC-41AB7A75",
+  "date" : "2026-03-12",
+  "startTime" : "13:00",
+  "endTime" : "14:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-305427E6",
+  "doctorId" : "DOC-41AB7A75",
+  "date" : "2026-03-12",
+  "startTime" : "14:00",
+  "endTime" : "15:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-321BA0D8",
+  "doctorId" : "DOC-41AB7A75",
+  "date" : "2026-03-13",
+  "startTime" : "08:00",
+  "endTime" : "09:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-329DB9E1",
+  "doctorId" : "DOC-41AB7A75",
+  "date" : "2026-03-13",
+  "startTime" : "09:00",
+  "endTime" : "10:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-BE5E6304",
+  "doctorId" : "DOC-41AB7A75",
+  "date" : "2026-03-13",
+  "startTime" : "10:00",
+  "endTime" : "11:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-2899AB12",
+  "doctorId" : "DOC-41AB7A75",
+  "date" : "2026-03-13",
+  "startTime" : "11:00",
+  "endTime" : "12:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-408BBB8C",
+  "doctorId" : "DOC-41AB7A75",
+  "date" : "2026-03-13",
+  "startTime" : "13:00",
+  "endTime" : "14:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-61E330AE",
+  "doctorId" : "DOC-41AB7A75",
+  "date" : "2026-03-13",
+  "startTime" : "14:00",
+  "endTime" : "15:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-F37F7AE6",
+  "doctorId" : "DOC-41AB7A75",
+  "date" : "2026-03-16",
+  "startTime" : "08:00",
+  "endTime" : "09:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-C036B0A5",
+  "doctorId" : "DOC-41AB7A75",
+  "date" : "2026-03-16",
+  "startTime" : "09:00",
+  "endTime" : "10:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-26D25585",
+  "doctorId" : "DOC-41AB7A75",
+  "date" : "2026-03-16",
+  "startTime" : "10:00",
+  "endTime" : "11:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-B4CFF64F",
+  "doctorId" : "DOC-41AB7A75",
+  "date" : "2026-03-16",
+  "startTime" : "11:00",
+  "endTime" : "12:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-B0ADAEE7",
+  "doctorId" : "DOC-41AB7A75",
+  "date" : "2026-03-16",
+  "startTime" : "13:00",
+  "endTime" : "14:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-CD026737",
+  "doctorId" : "DOC-41AB7A75",
+  "date" : "2026-03-16",
+  "startTime" : "14:00",
+  "endTime" : "15:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-CBE0BB80",
+  "doctorId" : "DOC-41AB7A75",
+  "date" : "2026-03-17",
+  "startTime" : "08:00",
+  "endTime" : "09:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-70846F89",
+  "doctorId" : "DOC-41AB7A75",
+  "date" : "2026-03-17",
+  "startTime" : "09:00",
+  "endTime" : "10:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-AB0779B1",
+  "doctorId" : "DOC-41AB7A75",
+  "date" : "2026-03-17",
+  "startTime" : "10:00",
+  "endTime" : "11:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-E0A6786C",
+  "doctorId" : "DOC-41AB7A75",
+  "date" : "2026-03-17",
+  "startTime" : "11:00",
+  "endTime" : "12:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-C5C12489",
+  "doctorId" : "DOC-41AB7A75",
+  "date" : "2026-03-17",
+  "startTime" : "13:00",
+  "endTime" : "14:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-5DF96FB0",
+  "doctorId" : "DOC-41AB7A75",
+  "date" : "2026-03-17",
+  "startTime" : "14:00",
+  "endTime" : "15:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-BDA8A52D",
+  "doctorId" : "DOC-41AB7A75",
+  "date" : "2026-03-18",
+  "startTime" : "08:00",
+  "endTime" : "09:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-2C5F91F6",
+  "doctorId" : "DOC-41AB7A75",
+  "date" : "2026-03-18",
+  "startTime" : "09:00",
+  "endTime" : "10:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-DDFAA1CE",
+  "doctorId" : "DOC-41AB7A75",
+  "date" : "2026-03-18",
+  "startTime" : "10:00",
+  "endTime" : "11:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-0715F1B3",
+  "doctorId" : "DOC-41AB7A75",
+  "date" : "2026-03-18",
+  "startTime" : "11:00",
+  "endTime" : "12:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-AB0D237C",
+  "doctorId" : "DOC-41AB7A75",
+  "date" : "2026-03-18",
+  "startTime" : "13:00",
+  "endTime" : "14:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-EDE8A7FF",
+  "doctorId" : "DOC-41AB7A75",
+  "date" : "2026-03-18",
+  "startTime" : "14:00",
+  "endTime" : "15:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-DB95DAB6",
+  "doctorId" : "DOC-41AB7A75",
+  "date" : "2026-03-19",
+  "startTime" : "08:00",
+  "endTime" : "09:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-3BBC6746",
+  "doctorId" : "DOC-41AB7A75",
+  "date" : "2026-03-19",
+  "startTime" : "09:00",
+  "endTime" : "10:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-30C22C1E",
+  "doctorId" : "DOC-41AB7A75",
+  "date" : "2026-03-19",
+  "startTime" : "10:00",
+  "endTime" : "11:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-42F9B529",
+  "doctorId" : "DOC-41AB7A75",
+  "date" : "2026-03-19",
+  "startTime" : "11:00",
+  "endTime" : "12:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-B2DFBFFD",
+  "doctorId" : "DOC-41AB7A75",
+  "date" : "2026-03-19",
+  "startTime" : "13:00",
+  "endTime" : "14:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-1424CA27",
+  "doctorId" : "DOC-41AB7A75",
+  "date" : "2026-03-19",
+  "startTime" : "14:00",
+  "endTime" : "15:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-57E68253",
+  "doctorId" : "DOC-41AB7A75",
+  "date" : "2026-03-20",
+  "startTime" : "08:00",
+  "endTime" : "09:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-B9B32EA1",
+  "doctorId" : "DOC-41AB7A75",
+  "date" : "2026-03-20",
+  "startTime" : "09:00",
+  "endTime" : "10:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-6303AE1E",
+  "doctorId" : "DOC-41AB7A75",
+  "date" : "2026-03-20",
+  "startTime" : "10:00",
+  "endTime" : "11:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-FDDF9314",
+  "doctorId" : "DOC-41AB7A75",
+  "date" : "2026-03-20",
+  "startTime" : "11:00",
+  "endTime" : "12:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-3BB54AFE",
+  "doctorId" : "DOC-41AB7A75",
+  "date" : "2026-03-20",
+  "startTime" : "13:00",
+  "endTime" : "14:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-3CE226EA",
+  "doctorId" : "DOC-41AB7A75",
+  "date" : "2026-03-20",
+  "startTime" : "14:00",
+  "endTime" : "15:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-2515BB6E",
+  "doctorId" : "DOC-41AB7A75",
+  "date" : "2026-03-23",
+  "startTime" : "08:00",
+  "endTime" : "09:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-0B41E738",
+  "doctorId" : "DOC-41AB7A75",
+  "date" : "2026-03-23",
+  "startTime" : "09:00",
+  "endTime" : "10:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-B6CB9102",
+  "doctorId" : "DOC-41AB7A75",
+  "date" : "2026-03-23",
+  "startTime" : "10:00",
+  "endTime" : "11:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-A6425D09",
+  "doctorId" : "DOC-41AB7A75",
+  "date" : "2026-03-23",
+  "startTime" : "11:00",
+  "endTime" : "12:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-8E82F6C5",
+  "doctorId" : "DOC-41AB7A75",
+  "date" : "2026-03-23",
+  "startTime" : "13:00",
+  "endTime" : "14:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-18B39A73",
+  "doctorId" : "DOC-41AB7A75",
+  "date" : "2026-03-23",
+  "startTime" : "14:00",
+  "endTime" : "15:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-42B1FF1C",
+  "doctorId" : "DOC-41AB7A75",
+  "date" : "2026-03-24",
+  "startTime" : "08:00",
+  "endTime" : "09:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-B2ED9E73",
+  "doctorId" : "DOC-41AB7A75",
+  "date" : "2026-03-24",
+  "startTime" : "09:00",
+  "endTime" : "10:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-2B3EF719",
+  "doctorId" : "DOC-41AB7A75",
+  "date" : "2026-03-24",
+  "startTime" : "10:00",
+  "endTime" : "11:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-14FB11B5",
+  "doctorId" : "DOC-41AB7A75",
+  "date" : "2026-03-24",
+  "startTime" : "11:00",
+  "endTime" : "12:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-E67D0128",
+  "doctorId" : "DOC-41AB7A75",
+  "date" : "2026-03-24",
+  "startTime" : "13:00",
+  "endTime" : "14:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-066D83E5",
+  "doctorId" : "DOC-41AB7A75",
+  "date" : "2026-03-24",
+  "startTime" : "14:00",
+  "endTime" : "15:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-266665B7",
+  "doctorId" : "DOC-41AB7A75",
+  "date" : "2026-03-25",
+  "startTime" : "08:00",
+  "endTime" : "09:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-CB8E0063",
+  "doctorId" : "DOC-41AB7A75",
+  "date" : "2026-03-25",
+  "startTime" : "09:00",
+  "endTime" : "10:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-7C22C701",
+  "doctorId" : "DOC-41AB7A75",
+  "date" : "2026-03-25",
+  "startTime" : "10:00",
+  "endTime" : "11:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-15970332",
+  "doctorId" : "DOC-41AB7A75",
+  "date" : "2026-03-25",
+  "startTime" : "11:00",
+  "endTime" : "12:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-7662FE38",
+  "doctorId" : "DOC-41AB7A75",
+  "date" : "2026-03-25",
+  "startTime" : "13:00",
+  "endTime" : "14:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-73811141",
+  "doctorId" : "DOC-41AB7A75",
+  "date" : "2026-03-25",
+  "startTime" : "14:00",
+  "endTime" : "15:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-71691B56",
+  "doctorId" : "DOC-41AB7A75",
+  "date" : "2026-03-26",
+  "startTime" : "08:00",
+  "endTime" : "09:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-5B066B49",
+  "doctorId" : "DOC-41AB7A75",
+  "date" : "2026-03-26",
+  "startTime" : "09:00",
+  "endTime" : "10:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-B02918EB",
+  "doctorId" : "DOC-41AB7A75",
+  "date" : "2026-03-26",
+  "startTime" : "10:00",
+  "endTime" : "11:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-B421C0A2",
+  "doctorId" : "DOC-41AB7A75",
+  "date" : "2026-03-26",
+  "startTime" : "11:00",
+  "endTime" : "12:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-A86BDC2C",
+  "doctorId" : "DOC-41AB7A75",
+  "date" : "2026-03-26",
+  "startTime" : "13:00",
+  "endTime" : "14:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-D721BD33",
+  "doctorId" : "DOC-41AB7A75",
+  "date" : "2026-03-26",
+  "startTime" : "14:00",
+  "endTime" : "15:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-9461474F",
+  "doctorId" : "DOC-41AB7A75",
+  "date" : "2026-03-27",
+  "startTime" : "08:00",
+  "endTime" : "09:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-91110EA0",
+  "doctorId" : "DOC-41AB7A75",
+  "date" : "2026-03-27",
+  "startTime" : "09:00",
+  "endTime" : "10:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-5FCB3CEF",
+  "doctorId" : "DOC-41AB7A75",
+  "date" : "2026-03-27",
+  "startTime" : "10:00",
+  "endTime" : "11:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-063EF5CC",
+  "doctorId" : "DOC-41AB7A75",
+  "date" : "2026-03-27",
+  "startTime" : "11:00",
+  "endTime" : "12:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-0E5A38A5",
+  "doctorId" : "DOC-41AB7A75",
+  "date" : "2026-03-27",
+  "startTime" : "13:00",
+  "endTime" : "14:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-6BB459E6",
+  "doctorId" : "DOC-41AB7A75",
+  "date" : "2026-03-27",
+  "startTime" : "14:00",
+  "endTime" : "15:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-86DE57F7",
+  "doctorId" : "DOC-41AB7A75",
+  "date" : "2026-03-30",
+  "startTime" : "08:00",
+  "endTime" : "09:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-0165D7B1",
+  "doctorId" : "DOC-41AB7A75",
+  "date" : "2026-03-30",
+  "startTime" : "09:00",
+  "endTime" : "10:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-50A78CF6",
+  "doctorId" : "DOC-41AB7A75",
+  "date" : "2026-03-30",
+  "startTime" : "10:00",
+  "endTime" : "11:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-5C6A3EA5",
+  "doctorId" : "DOC-41AB7A75",
+  "date" : "2026-03-30",
+  "startTime" : "11:00",
+  "endTime" : "12:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-49AEA7FE",
+  "doctorId" : "DOC-41AB7A75",
+  "date" : "2026-03-30",
+  "startTime" : "13:00",
+  "endTime" : "14:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-297E75B6",
+  "doctorId" : "DOC-41AB7A75",
+  "date" : "2026-03-30",
+  "startTime" : "14:00",
+  "endTime" : "15:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-1A3CFA14",
+  "doctorId" : "DOC-41AB7A75",
+  "date" : "2026-03-31",
+  "startTime" : "08:00",
+  "endTime" : "09:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-2CF3D03D",
+  "doctorId" : "DOC-41AB7A75",
+  "date" : "2026-03-31",
+  "startTime" : "09:00",
+  "endTime" : "10:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-CB499D52",
+  "doctorId" : "DOC-41AB7A75",
+  "date" : "2026-03-31",
+  "startTime" : "10:00",
+  "endTime" : "11:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-9F659F39",
+  "doctorId" : "DOC-41AB7A75",
+  "date" : "2026-03-31",
+  "startTime" : "11:00",
+  "endTime" : "12:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-FBDBFEE6",
+  "doctorId" : "DOC-41AB7A75",
+  "date" : "2026-03-31",
+  "startTime" : "13:00",
+  "endTime" : "14:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-4A6EBA35",
+  "doctorId" : "DOC-41AB7A75",
+  "date" : "2026-03-31",
+  "startTime" : "14:00",
+  "endTime" : "15:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-5712F8E9",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-12-01",
+  "startTime" : "08:00",
+  "endTime" : "09:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-F399850B",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-12-01",
+  "startTime" : "09:00",
+  "endTime" : "10:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-F73E2B96",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-12-01",
+  "startTime" : "10:00",
+  "endTime" : "11:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-75275AFC",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-12-01",
+  "startTime" : "11:00",
+  "endTime" : "12:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-A172C605",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-12-01",
+  "startTime" : "14:00",
+  "endTime" : "15:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-BD3D672A",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-12-01",
+  "startTime" : "15:00",
+  "endTime" : "16:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-8D9A707B",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-12-01",
+  "startTime" : "16:00",
+  "endTime" : "17:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-308DD726",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-12-02",
+  "startTime" : "08:00",
+  "endTime" : "09:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-C5E7C06E",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-12-02",
+  "startTime" : "09:00",
+  "endTime" : "10:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-728F565E",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-12-02",
+  "startTime" : "10:00",
+  "endTime" : "11:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-79C32B27",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-12-02",
+  "startTime" : "11:00",
+  "endTime" : "12:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-540B7B04",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-12-02",
+  "startTime" : "14:00",
+  "endTime" : "15:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-AACFFEA7",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-12-02",
+  "startTime" : "15:00",
+  "endTime" : "16:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-B16B1D78",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-12-02",
+  "startTime" : "16:00",
+  "endTime" : "17:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-E9A7E658",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-12-03",
+  "startTime" : "08:00",
+  "endTime" : "09:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-DDB87410",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-12-03",
+  "startTime" : "09:00",
+  "endTime" : "10:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-D8DD99A7",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-12-03",
+  "startTime" : "10:00",
+  "endTime" : "11:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-B1486560",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-12-03",
+  "startTime" : "11:00",
+  "endTime" : "12:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-155218B6",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-12-03",
+  "startTime" : "14:00",
+  "endTime" : "15:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-73F54CF4",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-12-03",
+  "startTime" : "15:00",
+  "endTime" : "16:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-CD0C8D69",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-12-03",
+  "startTime" : "16:00",
+  "endTime" : "17:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-0CCA1CD9",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-12-04",
+  "startTime" : "08:00",
+  "endTime" : "09:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-8731838A",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-12-04",
+  "startTime" : "09:00",
+  "endTime" : "10:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-B6353FB2",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-12-04",
+  "startTime" : "10:00",
+  "endTime" : "11:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-20B5F2E3",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-12-04",
+  "startTime" : "11:00",
+  "endTime" : "12:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-B2A9745E",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-12-04",
+  "startTime" : "14:00",
+  "endTime" : "15:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-CAFA66E9",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-12-04",
+  "startTime" : "15:00",
+  "endTime" : "16:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-C8B4FED6",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-12-04",
+  "startTime" : "16:00",
+  "endTime" : "17:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-D7306E21",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-12-07",
+  "startTime" : "08:00",
+  "endTime" : "09:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-9275FC14",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-12-07",
+  "startTime" : "09:00",
+  "endTime" : "10:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-DF105943",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-12-07",
+  "startTime" : "10:00",
+  "endTime" : "11:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-F7E28E87",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-12-07",
+  "startTime" : "11:00",
+  "endTime" : "12:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-C687AC89",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-12-07",
+  "startTime" : "14:00",
+  "endTime" : "15:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-6C393835",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-12-07",
+  "startTime" : "15:00",
+  "endTime" : "16:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-14BE5DD0",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-12-07",
+  "startTime" : "16:00",
+  "endTime" : "17:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-A305227C",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-12-08",
+  "startTime" : "08:00",
+  "endTime" : "09:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-B3127B5C",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-12-08",
+  "startTime" : "09:00",
+  "endTime" : "10:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-463ECDF9",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-12-08",
+  "startTime" : "10:00",
+  "endTime" : "11:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-E9BD254C",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-12-08",
+  "startTime" : "11:00",
+  "endTime" : "12:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-8045AA42",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-12-08",
+  "startTime" : "14:00",
+  "endTime" : "15:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-56A8B75A",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-12-08",
+  "startTime" : "15:00",
+  "endTime" : "16:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-D5C9C64D",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-12-08",
+  "startTime" : "16:00",
+  "endTime" : "17:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-383AF8EF",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-12-09",
+  "startTime" : "08:00",
+  "endTime" : "09:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-9D338B07",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-12-09",
+  "startTime" : "09:00",
+  "endTime" : "10:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-E1BB065F",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-12-09",
+  "startTime" : "10:00",
+  "endTime" : "11:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-EAB12A1D",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-12-09",
+  "startTime" : "11:00",
+  "endTime" : "12:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-5F7F7D47",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-12-09",
+  "startTime" : "14:00",
+  "endTime" : "15:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-C4262D5C",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-12-09",
+  "startTime" : "15:00",
+  "endTime" : "16:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-355520EF",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-12-09",
+  "startTime" : "16:00",
+  "endTime" : "17:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-4A28AA74",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-12-10",
+  "startTime" : "08:00",
+  "endTime" : "09:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-353FA5D1",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-12-10",
+  "startTime" : "09:00",
+  "endTime" : "10:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-3CCB655E",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-12-10",
+  "startTime" : "10:00",
+  "endTime" : "11:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-8706962B",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-12-10",
+  "startTime" : "11:00",
+  "endTime" : "12:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-52100B75",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-12-10",
+  "startTime" : "14:00",
+  "endTime" : "15:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-ADB84521",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-12-10",
+  "startTime" : "15:00",
+  "endTime" : "16:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-2002F8C6",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-12-10",
+  "startTime" : "16:00",
+  "endTime" : "17:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-DF5AC922",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-12-11",
+  "startTime" : "08:00",
+  "endTime" : "09:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-C76654F3",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-12-11",
+  "startTime" : "09:00",
+  "endTime" : "10:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-E86AB634",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-12-11",
+  "startTime" : "10:00",
+  "endTime" : "11:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-DB09C893",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-12-11",
+  "startTime" : "11:00",
+  "endTime" : "12:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-F22B8B76",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-12-11",
+  "startTime" : "14:00",
+  "endTime" : "15:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-46654936",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-12-11",
+  "startTime" : "15:00",
+  "endTime" : "16:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-2B7030D8",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-12-11",
+  "startTime" : "16:00",
+  "endTime" : "17:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-A6682C6A",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-12-14",
+  "startTime" : "08:00",
+  "endTime" : "09:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-55CF365F",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-12-14",
+  "startTime" : "09:00",
+  "endTime" : "10:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-58368DCE",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-12-14",
+  "startTime" : "10:00",
+  "endTime" : "11:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-19B94688",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-12-14",
+  "startTime" : "11:00",
+  "endTime" : "12:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-E0220B4E",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-12-14",
+  "startTime" : "14:00",
+  "endTime" : "15:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-AAACC428",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-12-14",
+  "startTime" : "15:00",
+  "endTime" : "16:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-77CEE98B",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-12-14",
+  "startTime" : "16:00",
+  "endTime" : "17:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-A8F8157A",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-12-15",
+  "startTime" : "08:00",
+  "endTime" : "09:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-A85EDDEB",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-12-15",
+  "startTime" : "09:00",
+  "endTime" : "10:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-E6DD8C87",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-12-15",
+  "startTime" : "10:00",
+  "endTime" : "11:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-538A0BB8",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-12-15",
+  "startTime" : "11:00",
+  "endTime" : "12:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-196DFEA5",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-12-15",
+  "startTime" : "14:00",
+  "endTime" : "15:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-7D421CEC",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-12-15",
+  "startTime" : "15:00",
+  "endTime" : "16:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-DE637139",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-12-15",
+  "startTime" : "16:00",
+  "endTime" : "17:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-325C326F",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-12-16",
+  "startTime" : "08:00",
+  "endTime" : "09:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-D4CA4AC9",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-12-16",
+  "startTime" : "09:00",
+  "endTime" : "10:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-13373601",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-12-16",
+  "startTime" : "10:00",
+  "endTime" : "11:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-87479588",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-12-16",
+  "startTime" : "11:00",
+  "endTime" : "12:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-CD3CFBFB",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-12-16",
+  "startTime" : "14:00",
+  "endTime" : "15:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-9B19085E",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-12-16",
+  "startTime" : "15:00",
+  "endTime" : "16:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-9C185A89",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-12-16",
+  "startTime" : "16:00",
+  "endTime" : "17:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-589011A8",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-12-17",
+  "startTime" : "08:00",
+  "endTime" : "09:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-5B02FCE8",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-12-17",
+  "startTime" : "09:00",
+  "endTime" : "10:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-BBBF4A17",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-12-17",
+  "startTime" : "10:00",
+  "endTime" : "11:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-0E10C6C5",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-12-17",
+  "startTime" : "11:00",
+  "endTime" : "12:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-139C7CF6",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-12-17",
+  "startTime" : "14:00",
+  "endTime" : "15:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-CA5FED3A",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-12-17",
+  "startTime" : "15:00",
+  "endTime" : "16:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-863E3215",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-12-17",
+  "startTime" : "16:00",
+  "endTime" : "17:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-F7935267",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-12-18",
+  "startTime" : "08:00",
+  "endTime" : "09:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-9CD1ECE6",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-12-18",
+  "startTime" : "09:00",
+  "endTime" : "10:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-4BD44693",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-12-18",
+  "startTime" : "10:00",
+  "endTime" : "11:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-5F4EE1D3",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-12-18",
+  "startTime" : "11:00",
+  "endTime" : "12:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-49CDC55C",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-12-18",
+  "startTime" : "14:00",
+  "endTime" : "15:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-C5EE3998",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-12-18",
+  "startTime" : "15:00",
+  "endTime" : "16:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-A429A861",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-12-18",
+  "startTime" : "16:00",
+  "endTime" : "17:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-A01F4C2E",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-12-21",
+  "startTime" : "08:00",
+  "endTime" : "09:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-6D883ED8",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-12-21",
+  "startTime" : "09:00",
+  "endTime" : "10:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-794A9625",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-12-21",
+  "startTime" : "10:00",
+  "endTime" : "11:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-8C084315",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-12-21",
+  "startTime" : "11:00",
+  "endTime" : "12:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-DB475F20",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-12-21",
+  "startTime" : "14:00",
+  "endTime" : "15:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-0AF52B50",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-12-21",
+  "startTime" : "15:00",
+  "endTime" : "16:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-A4E91FC8",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-12-21",
+  "startTime" : "16:00",
+  "endTime" : "17:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-67056A0C",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-12-22",
+  "startTime" : "08:00",
+  "endTime" : "09:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-227A3072",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-12-22",
+  "startTime" : "09:00",
+  "endTime" : "10:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-A837ADDE",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-12-22",
+  "startTime" : "10:00",
+  "endTime" : "11:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-B06A53E4",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-12-22",
+  "startTime" : "11:00",
+  "endTime" : "12:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-7D2700DA",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-12-22",
+  "startTime" : "14:00",
+  "endTime" : "15:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-753DE078",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-12-22",
+  "startTime" : "15:00",
+  "endTime" : "16:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-7F68DAEA",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-12-22",
+  "startTime" : "16:00",
+  "endTime" : "17:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-1EF22839",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-12-23",
+  "startTime" : "08:00",
+  "endTime" : "09:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-B570A848",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-12-23",
+  "startTime" : "09:00",
+  "endTime" : "10:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-1797EA0A",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-12-23",
+  "startTime" : "10:00",
+  "endTime" : "11:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-8ACC1C85",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-12-23",
+  "startTime" : "11:00",
+  "endTime" : "12:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-2657BC6A",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-12-23",
+  "startTime" : "14:00",
+  "endTime" : "15:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-EC062851",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-12-23",
+  "startTime" : "15:00",
+  "endTime" : "16:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-B930BD04",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-12-23",
+  "startTime" : "16:00",
+  "endTime" : "17:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-F83E6A09",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-12-24",
+  "startTime" : "08:00",
+  "endTime" : "09:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-DFC4CA17",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-12-24",
+  "startTime" : "09:00",
+  "endTime" : "10:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-BFCDFAA0",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-12-24",
+  "startTime" : "10:00",
+  "endTime" : "11:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-24D79469",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-12-24",
+  "startTime" : "11:00",
+  "endTime" : "12:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-667877AA",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-12-24",
+  "startTime" : "14:00",
+  "endTime" : "15:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-C97C1D71",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-12-24",
+  "startTime" : "15:00",
+  "endTime" : "16:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-5E7002C4",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-12-24",
+  "startTime" : "16:00",
+  "endTime" : "17:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-80B8A013",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-12-25",
+  "startTime" : "08:00",
+  "endTime" : "09:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-4B08FCD5",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-12-25",
+  "startTime" : "09:00",
+  "endTime" : "10:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-D610C3D8",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-12-25",
+  "startTime" : "10:00",
+  "endTime" : "11:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-31252C7B",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-12-25",
+  "startTime" : "11:00",
+  "endTime" : "12:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-D5CB1CC6",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-12-25",
+  "startTime" : "14:00",
+  "endTime" : "15:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-ABC01C66",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-12-25",
+  "startTime" : "15:00",
+  "endTime" : "16:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-7A46FEED",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-12-25",
+  "startTime" : "16:00",
+  "endTime" : "17:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-FCFD997E",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-12-28",
+  "startTime" : "08:00",
+  "endTime" : "09:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-ABD3774A",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-12-28",
+  "startTime" : "09:00",
+  "endTime" : "10:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-E0A629B5",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-12-28",
+  "startTime" : "10:00",
+  "endTime" : "11:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-DDBD5B7D",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-12-28",
+  "startTime" : "11:00",
+  "endTime" : "12:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-43419F3A",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-12-28",
+  "startTime" : "14:00",
+  "endTime" : "15:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-C18C6CC4",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-12-28",
+  "startTime" : "15:00",
+  "endTime" : "16:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-5CEFD10D",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-12-28",
+  "startTime" : "16:00",
+  "endTime" : "17:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-6554D37A",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-12-29",
+  "startTime" : "08:00",
+  "endTime" : "09:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-49E7A733",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-12-29",
+  "startTime" : "09:00",
+  "endTime" : "10:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-B1F7CD24",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-12-29",
+  "startTime" : "10:00",
+  "endTime" : "11:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-DB5B8E73",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-12-29",
+  "startTime" : "11:00",
+  "endTime" : "12:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-669D189F",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-12-29",
+  "startTime" : "14:00",
+  "endTime" : "15:00",
+  "status" : "Booked",
+  "patientId" : "PAT-5A51C1AF"
+}, {
+  "id" : "SCH-C91666D5",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-12-29",
+  "startTime" : "15:00",
+  "endTime" : "16:00",
+  "status" : "Available",
+  "patientId" : ""
+}, {
+  "id" : "SCH-C7D0F070",
+  "doctorId" : "DOC-7482E551",
+  "date" : "2026-12-29",
+  "startTime" : "16:00",
+  "endTime" : "17:00",
+  "status" : "Booked",
+  "patientId" : "PAT-5A51C1AF"
+} ]
